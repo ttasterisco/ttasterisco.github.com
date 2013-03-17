@@ -31,7 +31,7 @@ css: ["/assets/css/index.css"]
   <br />
 
   <div class="subtitle">
-    I write, therefore I am.
+    highly opiniated writings.
   </div>
 </div>
 
