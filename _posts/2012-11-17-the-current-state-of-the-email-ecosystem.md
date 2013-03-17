@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Current State of the Email Ecosystem
+summary: An overview of how startups are challenging the established players in the email world.
 ---
 
 {{ page.title }}
@@ -16,7 +17,7 @@ Someone said this in 1997, but it could’ve well been in 2013. Email has become
 Email startups became cool around 2007, when [Xobni](https://www.xobni.com/) kicked off a mini-revolution. Its Outlook extension quickly garnered a large user base which attracted Bill Gates and Microsoft’s attention and a rumored (rejected) acquisition offer.
 Since then, several email startups have popped up and got the tech world’s headlines with their products and/or acquisitions. Yahoo bought [xoopit](http://www.crunchbase.com/company/xoopit) (a social networking service based around email) in 2009, [reMail](http://www.remail.com/) (email search for iPhone) got picked up by Google in early 2010 while [Rapportive](http://rapportive.com/) (rich contact profiles inside Gmail) was acquired by Linkedin just this year. And just recently, [PowerInbox](http://powerinbox.com/) and [ActivePath](http://www.activepath.com/) decided to join forces to enrich your email content.
 
-And you know things are heating when you start having conferences. [Inbox Love](http://inboxlove.com/) had its 2nd edition last year featuring a big number of startups side by side with the established players.
+And you know things are heating when you start having conferences. [Inbox Love](http://inboxlove.com/) had its 2nd edition last year featuring a big number of startups side by side with the established players. Heck, even [VCs](https://www.handle.com/about_us) are jumping in.
 
 ## Innovation in the email world
 There’s a multitude of startups trying to improve our email experience by either extending existing email clients or completely replacing them.
@@ -86,9 +87,7 @@ With everyone pointing to mobile as the next great battlefield, it’s clear tha
 
 Email startups have been shy and taking a very conservative approach to mobile. Most are making apps that merely signal their presence in the mobile world. And very few have dared to go mobile first. This might be due to the fact that startups that have plugin products don’t have the same freedom in mobile as they do on the browser. They would have to hack into the mobile email clients to be able to reproduce their functionalities and - more important - their visibility. Porting a product into mobile means a separate app, which means not being immediately present when users check email in their phones.
 
-The great exception is of course [Mailbox](http://mailboxapp.com). In just one week they’ve amassed 150k users and +800k reservations! And their path? From a task management app (Orchestra ToDo) into a mix of email client with task management. By building email client functionalities they can overcome some of the problems described before and control the user workflow when checking email. Pundits were quick to suggest that someone should buy them ([here](http://www.businessinsider.com/marissa-mayer-yahoo-mail-2013-2) and [here](http://www.forbes.com/sites/anthonykosner/2013/02/17/mailbox-app-revolutionizes-gmail-productivity-will-google-or-apple-buy-it/)). Guess what, [Dropbox listened](http://gigaom.com/2013/03/15/how-much-did-dropbox-pay-for-mailbox/)!
-
-How will this battle unfold?
+The great exception is of course [Mailbox](http://mailboxapp.com). In just one week they’ve amassed 150k users and +800k reservations! And their path? From a task management app (Orchestra ToDo) into a mix of email client with task management. By building email client functionalities they overcame some of the problems described before and control the user workflow when checking email. Pundits were quick to suggest that someone should buy them ([here](http://www.businessinsider.com/marissa-mayer-yahoo-mail-2013-2) and [here](http://www.forbes.com/sites/anthonykosner/2013/02/17/mailbox-app-revolutionizes-gmail-productivity-will-google-or-apple-buy-it/)). [Dropbox listened](http://gigaom.com/2013/03/15/how-much-did-dropbox-pay-for-mailbox/)!
 
 ## What's tomorrow like?
 So what’s in the future for email? [Interesting things](https://twitter.com/search?q=%23EmailIn5Years&amp;src=hash), no doubt about it.
@@ -97,3 +96,6 @@ So what’s in the future for email? [Interesting things](https://twitter.com/se
 <img src="/resources/2012-11-17-the-current-state-of-the-email-ecosystem/tweets2.png" />
 
 The end.
+
+
+<!-- I wish that there was decent todo management software that deeply integrated with my email. [Source](http://aaron.swartz.usesthis.com/) -->
