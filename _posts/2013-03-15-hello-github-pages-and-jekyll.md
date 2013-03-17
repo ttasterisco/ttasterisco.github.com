@@ -57,6 +57,8 @@ accessing template variables (```page```, ```site```, etc)
 
 ```jekyll --server```
 
+hint: disable ```auto: true``` in ```_config.yml``` to see compilation errors (there must be some better way)
+
 
 ## Workflow
 
