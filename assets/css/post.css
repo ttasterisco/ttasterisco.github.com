@@ -1,0 +1,38 @@
+body > *  {
+  width: 1000px;
+}
+
+.navbar {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid #808080;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.navbar[role=navigation] {
+  max-height: none;
+}
+
+.navbar[role=navigation] .index {
+
+}
+
+.navbar[role=navigation] .index .link {
+
+}
+
+.navbar[role=navigation] .share {
+
+}
+
+
+.content {
+  font-size: 130%;
+  line-height: 1.7;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 25px;
+}

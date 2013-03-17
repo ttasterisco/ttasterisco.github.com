@@ -1,0 +1,98 @@
+.header {
+  padding: 10px 25px 10px 25px;
+}
+
+.header .title {
+  display: inline;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.header .title .link {
+  color: #0060B6;
+}
+
+.header .title .link:hover {
+   color: #00A0C6;
+}
+
+.header .subtitle {
+  display: inline;
+  font-size: 15px;
+}
+
+.header .contact {
+  display: inline;
+  float: right;
+  padding: 20px;
+}
+
+.header .contact ul {
+  list-style: none;
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header .contact ul li {
+  display: inline;
+  padding: 5px 10px 5px 5px;
+}
+
+.header .contact .email {
+  width: 30px;
+  height: 30px;
+
+}
+
+.header .contact .twitter {
+  background-image: url('/assets/images/twitter-bird-light-bgs.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 30px 30px;
+  width: 30px;
+  height: 30px;
+}
+
+.header .contact .about {
+  width: 30px;
+  height: 30px;
+  padding-left: 16px;
+}
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+  background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
+  background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
+  background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+.content {
+  padding: 25px 25px 25px 25px;
+}
+
+.content .post {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.content .post .title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.content .post .summary {
+  font-size: 13px;
+  line-height: 20px;
+  display: inline;
+}
+
+.content .post .date {
+  font-size: 10px;
+  float: right;
+  padding: 3px;
+}

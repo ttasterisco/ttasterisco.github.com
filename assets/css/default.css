@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  padding: 5px;
+
+  position: relative;
+  display: block;
+}
+
+body > *  {
+  margin: auto;
+  width: 800px;
+  display: block;
+  overflow: auto;
+}
+
+body > script {
+  display: none
+}
+
