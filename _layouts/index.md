@@ -1,27 +1,13 @@
 ---
 layout: default
-css: ["/assets/css/index.css"]
+css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE THIS IN CHILD TEMPLATE?
 ---
 
 <div class="header">
   <div class="contact">
-    <ul>
-      <li class="email">
-        <a href="mailto:ttasterisco@islandofatlas.net">
-          @
-        </a>
-      </li>
-      <li class="twitter">
-        <a href="http://twitter.com/ttasterisco">
-          &nbsp;&nbsp;&nbsp;
-        </a>
-      </li>
-      <li class="about">
-        <a href="/about.html">
-          ?
-        </a>
-      </li>
-    </ul>
+    <a href="/about.html">
+      ?
+    </a>
   </div>
 
   <div class="title">
