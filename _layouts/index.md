@@ -4,10 +4,6 @@ css: ["/assets/css/index.css"]
 ---
 
 <div class="header">
-  <div class="title">
-    <a class="link" href="/">(in)conception</a>
-  </div>
-
   <div class="contact">
     <ul>
       <li class="email">
@@ -26,6 +22,10 @@ css: ["/assets/css/index.css"]
         </a>
       </li>
     </ul>
+  </div>
+
+  <div class="title">
+    <a class="link" href="/">{{site.name}}</a>
   </div>
 
   <br />
