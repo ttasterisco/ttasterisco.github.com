@@ -6,11 +6,11 @@ css: ["/assets/css/post.css"]
 <div class="header">
   <div class="nav">
     <div class="index">
-      <a class="link" href="/">&larr;</a>
+      <!-- <a class="link" href="/">&larr;</a> -->
     </div>
 
     <div class="share">
-      <a class="link" href="/">tweet</a>
+      <!-- <a class="link" href="/">tweet</a> -->
     </div>
 
     <div class="name">
