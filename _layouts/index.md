@@ -4,10 +4,6 @@ css: ["/assets/css/index.css"]
 ---
 
 <div class="header">
-  <div class="title">
-    <a class="link" href="/">(in)conception</a>
-  </div>
-
   <div class="contact">
     <ul>
       <li class="email">
@@ -28,10 +24,14 @@ css: ["/assets/css/index.css"]
     </ul>
   </div>
 
+  <div class="title">
+    <a class="link" href="/">{{site.name}}</a>
+  </div>
+
   <br />
 
   <div class="subtitle">
-    I write, therefore I am.
+    highly opiniated writings.
   </div>
 </div>
 
