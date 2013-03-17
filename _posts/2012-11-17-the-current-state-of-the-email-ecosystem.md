@@ -4,10 +4,6 @@ title: The Current State of the Email Ecosystem
 summary: An overview of how startups are challenging the established players in the email world.
 ---
 
-{{ page.title }}
-================
-
-
 ## ["email, to me, is the most important app I use"](https://www.youtube.com/watch?feature=player_detailpage&amp;v=3LEXae1j6EY#t=1873s "email, to me, is the most important app I use")
 
 <iframe width="640" height="385" src="http://www.youtube.com/embed/3LEXae1j6EY?rel=0" frameborder="0"> </iframe>
