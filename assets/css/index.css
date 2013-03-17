@@ -25,33 +25,6 @@
   padding: 20px;
 }
 
-.header .contact ul {
-  list-style: none;
-  display: block;
-  margin: 0px;
-  padding: 0px;
-}
-
-.header .contact ul li {
-  display: inline;
-  padding: 5px 10px 5px 5px;
-}
-
-.header .contact .email {
-  width: 30px;
-  height: 30px;
-
-}
-
-.header .contact .twitter {
-  background-image: url('/assets/images/twitter-bird-light-bgs.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 30px 30px;
-  width: 30px;
-  height: 30px;
-}
-
 .header .contact .about {
   width: 30px;
   height: 30px;
