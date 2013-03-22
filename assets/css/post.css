@@ -1,5 +1,5 @@
 body {
-  padding: 0px;
+  padding: 25px 0 0 0;
   margin: 0px;
 }
 
@@ -7,48 +7,24 @@ body > *  {
   width: 1000px;
 }
 
-.header {
-  margin: 0;
-  padding: 0 25px 0 25px;
-  border: 0;
-  border-bottom: 1px solid #808080;
+
+.left {
+  display: inline;
   overflow: hidden;
-  width: 100%;
-  text-align: center;
+  padding: 0 0 0 20px;
+  margin: 0;
+  border: 0;
 }
 
-.header .nav {
-  height: 50px;
-  font-size: 40px;
-  line-height: 50px;
-}
 
-.header .nav .index {
+.left .name {
   display: inline;
-  float: left;
-}
-
-.header .nav .name {
-  /*display: inline;*/
   font-weight: bold;
-}
-
-.header .nav .name .link {
   color: #0060B6;
+  height: 25px;
+  font-size: 20px;
+  line-height: 25px;
 }
-
-.header .nav .name .link:hover {
-  color: #00A0C6;
-}
-
-.header .nav .share {
-  display: inline;
-  float: right;
-}
-
-
-
-
 
 
 .content {
