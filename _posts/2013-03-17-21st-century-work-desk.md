@@ -6,26 +6,31 @@ filename:
 ---
 
 ## Trends in Work
+
 proliferation of task management system startups must mean something
 
 there's asana, mail/dropbox, any.do, do.com, etc etc
 
 many are trying to cater for what's now called "enterprise"
 
-there's clearly a trend here, but what's the real deal?
+there's clearly a trend here, but what's the real deal? (get some data - number of startups in task management, etc)
 
 many are tied to (or will be) email.
 
 in my opinion, the real deal is the creation of the modern equivalent of the work desk.
 
 
-## Work in the 20th Century (up until the 90s)
+
+
+## Knowledge workers in the 20th Century (up until the 90s)
 
 a lot of people in the world still have something resembling this:
 
 <img src="http://www.smallbusinessbranding.com/wp-content/uploads/2011/02/paper-stack-desk.jpg" height="600" width="800" />
 
-## Work from 1990+
+
+
+## Knowledge workers from 1990+
 
 those that have migrated to the digital world look like this (actually they might be using outlook):
 
@@ -41,6 +46,8 @@ the low cost of the digital goods amplifies the old-world problems immensely
 
 the direction the world <s>is taking</s> has taken is towards the web.
 gmail, google drive, box, salesforce, evernote, yammer, etc
+
+
 
 ## The importance of email
 
@@ -62,9 +69,46 @@ they are all marching towards the same end
 
 
 
-I won't dwelve into how the modern work desk should look like.
+## The Challengers
+
+### Salesforce
+
+
+### Yammer/Microsoft
+
+
+### Asana
+
+
+### et al
+
+
+
+
+## Automation
+
+the real value is in automation
+
+and integration with other systems
+
+
+
+## The Future
+
+I won't dwelve into how the modern work desk should look like, but there are a few characteristics.
+
+mobile mobile mobile: well, duh
+
+will a one size fit all solution work? or will the solutions be segmented / tailored to specific types of professions?
 
 I can say that a good example comes from [close.io](http://close.io). It's specifically directed to sales people
 but it shows how good and useful a dashboard for a professional will look like.
 
+github is an example of the work desk for software developers
+
+webrtc (voice, video and p2p sharing)
+
+?
+
 As for the rest, I'll leave it to your imagination
+
