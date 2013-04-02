@@ -71,17 +71,18 @@ they are all marching towards the same end
 
 ## The Challengers
 
-### Salesforce
+### Salesforce, Jive
 
 
 ### Yammer/Microsoft
 
 
-### Asana
+### Evernote, Asana, Trello
 
 
 ### et al
-
+Dropbox
+Wunderlist (lol but it has 1M android!), etc
 
 
 
