@@ -5,19 +5,36 @@ summary:
 filename:
 ---
 
-## Trends in Work
+## what kinds of professions do work with a computer and how do they work?
 
-proliferation of task management system startups must mean something
+Management
+Education
+Health
+Retail
+Software Development
+Architecture/Engineering
+Manual Services (mechanics, plumbers, etc)
 
-there's asana, mail/dropbox, any.do, do.com, etc etc
+## Different kinds of work
 
-many are trying to cater for what's now called "enterprise"
+file manager
+email
+chat
+text processor
+spreadsheet
+presentation tool
+pdf viewer
+search engine
 
-there's clearly a trend here, but what's the real deal? (get some data - number of startups in task management, etc)
 
-many are tied to (or will be) email.
+code editor
+photoshop/illustrator/etc
+internal company tool
 
-in my opinion, the real deal is the creation of the modern equivalent of the work desk.
+
+
+
+
 
 
 
@@ -47,6 +64,13 @@ the low cost of the digital goods amplifies the old-world problems immensely
 the direction the world <s>is taking</s> has taken is towards the web.
 gmail, google drive, box, salesforce, evernote, yammer, etc
 
+## We don't work alone
+
+No one does. Not even you, lonely writer. You still have an editor to report to. A graphic designer to talk with
+asking for something to color your text. Neither do you, lonely musician. etc etc
+
+That's why <s>social</s> collaborative has become such a common work. We work in a collaborative way, communicating
+with different people in the different parts of our workflow.
 
 
 ## The importance of email
@@ -68,6 +92,20 @@ the battle between asana, dropbox and evernote seems inevitable
 they are all marching towards the same end
 
 
+## Trends in Work
+
+proliferation of task management system startups must mean something
+
+there's asana, mail/dropbox, any.do, do.com, etc etc
+
+many are trying to cater for what's now called "enterprise"
+
+there's clearly a trend here, but what's the real deal? (get some data - number of startups in task management, etc)
+
+many are tied to (or will be) email.
+
+in my opinion, the real deal is the creation of the modern equivalent of the work desk.
+
 
 ## The Challengers
 
@@ -77,11 +115,10 @@ they are all marching towards the same end
 ### Yammer/Microsoft
 
 
-### Evernote, Asana, Trello
+### Dropbox, Evernote, Asana, Trello
 
 
 ### et al
-Dropbox
 Wunderlist (lol but it has 1M android!), etc
 
 
@@ -92,6 +129,15 @@ the real value is in automation
 
 and integration with other systems
 
+it should help the worker become more efficient. better organized. easy to know what's happening.
+like twitter is the pulse of the internet, a well designed workdesk should be the pulse of my work life.
+how? dashboards. overview of everything.
+
+
+help you with a ever-more multi-tasking world
+it's no longer self control. it's getting imposed. multiple tasks at hand
+how cool would it be to have something save the state of whatever you were doing and then switch to another state
+when you came back, you would be easily reminded of where you where and what you had to do next
 
 
 ## The Future
