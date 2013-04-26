@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Current State of the Email Ecosystem
-summary: An overview of how startups are challenging the established players in the email world.
+title: The Year of Email
+summary: An overview of how the email ecosystem is developing.
 ---
 
 ## ["email, to me, is the most important app I use"](https://www.youtube.com/watch?feature=player_detailpage&amp;v=3LEXae1j6EY#t=1873s "email, to me, is the most important app I use")
@@ -12,9 +12,9 @@ Someone said this in 1997, but it could’ve well been in 2013. Email has become
 ## It’s getting hot in here
 Email startups became cool around 2007, when [Xobni](https://www.xobni.com/) kicked off a mini-revolution. Its Outlook extension quickly garnered a large user base which attracted Bill Gates and Microsoft’s attention and a [rumored (rejected) acquisition offer](http://techcrunch.com/2008/02/29/microsoft-may-buy-email-startup-xobni/).
 
-Since then, several email startups have popped up and got the tech world’s headlines with their products and/or acquisitions. Yahoo bought [xoopit](http://www.crunchbase.com/company/xoopit) (a social networking service based around email) in 2009, [reMail](http://www.remail.com/) (email search for iPhone) got picked up by Google in early 2010 while [Rapportive](http://rapportive.com/) (rich contact profiles inside Gmail) was acquired by Linkedin just this year. And just recently, [PowerInbox](http://powerinbox.com/) and [ActivePath](http://www.activepath.com/) decided to join forces to enrich your email content.
+Since then, several email startups have popped up and got the tech world’s headlines with their products and/or acquisitions. Yahoo bought [xoopit](http://www.crunchbase.com/company/xoopit) (a social networking service based around email) in 2009, [reMail](http://www.remail.com/) (email search for iPhone) got picked up by Google in early 2010 while [Rapportive](http://rapportive.com/) (rich contact profiles inside Gmail) was acquired by Linkedin just last year. And not long ago, [PowerInbox](http://powerinbox.com/) and [ActivePath](http://www.activepath.com/) decided to join forces to enrich your email content.
 
-And you know things are heating when you start having conferences. [Inbox Love](http://inboxlove.com/) had its 2nd edition last year featuring a big number of startups side by side with the established players. Heck, even [VCs](https://www.handle.com/about_us) are jumping in.
+And you know things are heating when you start having conferences around them. [Inbox Love](http://inboxlove.com/) had its 2nd edition last year featuring a big number of startups side by side with the established players. Heck, even [VCs are jumping in](https://www.handle.com/about_us).
 
 ## Innovation in the email world
 There’s a multitude of startups trying to improve our email experience by either extending existing email clients or completely replacing them.
@@ -26,14 +26,14 @@ Startups that are trying to extend the email experience are doing so by standing
 
 - Did you ever wish to limit the messages that reach you? [OtherInbox](http://www.otherinbox.com/) has created several solutions to manage email overload, such as automatic foldering. [AwayFind](http://www.awayfind.com/) allows you to get AWAY from your inbox, letting urgent emails cut through the clutter and FIND you instantly. [sanebox](http://www.sanebox.com/) separates emails that you must deal with right away from ones that can wait at least a couple of hours.
 
-- Want to look at your email in a different way? [PhilterIt](https://www.philterit.com/) brings your inbox to life with rich icons. [WiseStamp](http://www.wisestamp.com/) builds an Email Apps Platform that enables users to utilize their emails with social, productive and engaging Email Apps. [Unroll.me](http://www.unroll.me/) promises to end unwanted subscriptions and rollup the rest into a personalized and organized overview. [Movable Ink](http://movableink.com/) allows businesses to stream live content into emails while also providing advanced analytics.
+- Want to look at your email in a different way? [PhilterIt](http://www.philterit.com/) brings your inbox to life with rich icons. [WiseStamp](http://www.wisestamp.com/) builds an Email Apps Platform that enables users to utilize their emails with social, productive and engaging Email Apps. [Unroll.me](http://www.unroll.me/) promises to end unwanted subscriptions and rollup the rest into a personalized and organized overview. [Movable Ink](http://movableink.com/) allows businesses to stream live content into emails while also providing advanced analytics.
 
-- But there’s more! [Textbox](https://textbox.io/) provides powerful writing tools for gmail (and tumblr). [Nveloped](https://nveloped.com/) makes it easy to send and receive secure email. [Tray](http://tray.io/) is a powerful email assistant. [FollowUp](http://www.followup.cc/) is an email reminder service. [Contactually](http://www.contactually.com/) automatically prioritizes and prompts you to take action with your email contacts. And there’s even [Maily](http://www.maily.com/) for your kids!
+- But there’s more! [Textbox](https://textbox.io/) provides powerful writing tools for gmail (and tumblr). [Nveloped](https://nveloped.com/) makes it easy to send and receive secure email. [FollowUp](http://www.followup.cc/) is an email reminder service. [Contactually](http://www.contactually.com/) automatically prioritizes and prompts you to take action with your email contacts. And there’s even [Maily](http://www.maily.com/) for your kids!
 
-Ufff! And it’s not just startups! Concepts like [Persona](http://personamail.info/) or [Reinventing Email](http://www.reinventingemail.com/) are being thrown around and getting a lot of attention (just look at the number of comments in HN).
+Ufff! And it’s not just startups! Concepts like [Persona](http://personamail.info/) or [Reinventing Email](http://www.reinventingemail.com/) are being thrown around and getting a lot of attention (just look at the number of comments in HN \[[1](https://news.ycombinator.com/item?id=2761976), [2](https://news.ycombinator.com/item?id=4790974)\]).
 
 ### new EmailClient()
-Creating something totally new is not only more ambitious but also more risky. The most notorious ones have been shut down. [Sparrow](http://www.sparrowmailapp.com/) was acquired by Google. [Fluent](http://fluent.io/) mysteriously closed during the Summer. And even [Thunderbird](http://techcrunch.com/2012/07/06/so-thats-it-for-thunderbird/) is getting *downsized* by Mozilla.
+Creating something totally new is not only more ambitious but also more risky. The most notorious ones have been shut down. [Sparrow](http://www.sparrowmailapp.com/) was acquired by Google. [Fluent](http://fluent.io/) mysteriously closed during the Summer. And even [Thunderbird](http://techcrunch.com/2012/07/06/so-thats-it-for-thunderbird/) got *downsized* by Mozilla.
 
 But that doesn’t mean others are not going to keep fighting. [Postbox](http://www.postbox-inc.com/)’s desktop app for Gmail/Mac OS X has received rave reviews. [Riparian Data](http://ripariandata.com/)’s work with big data appears to be very promising. And [Mail Pilot](http://www.mailpilot.co/) had a successful kickstarter project with its mission to reimagine email.
 
@@ -46,26 +46,26 @@ In pg’s famous essay [Frighteningly Ambitious Startup Ideas](http://paulgraham
 
 And since then, unsurprisingly, there has been a lot of talk to try and “fix email” using the suggested approach.
 
-[ActiveInbox](http://www.activeinboxhq.com/) has been around for a while, trying to make your inbox your donebox. Previously, Y Combinator had backed [Taskforce](https://www.taskforceapp.com/) to help them convert emails into tasks (the founders have since moved on to [Siasto](https://www.siasto.com/)).
+[ActiveInbox](http://www.activeinboxhq.com/) has been around for a while, trying to make your inbox your donebox. Previously, Y Combinator had backed [Taskforce](https://www.taskforceapp.com/) to help them convert emails into tasks, but the founders have since moved on to [Siasto](https://www.siasto.com/).
 
 There are some new kids on the block: [GrexIt](http://grexit.com/), a collaboration system that makes extensive use of gmail’s labels and [Taskbox](http://taskbox.co/), which turns your inbox into a task list (or as they like to say... a Taskbox).
 
 Even classic task management startups are jumping into the email: [Any.DO](http://www.any.do/) allows you now to add tasks from Gmail. <s>Orchestra To-do, the App Store's 2011 Productivity App of the Year, is working on a mobile-first email experience from the ground up</s> And we've all heard about [Mailbox](http://www.mailboxapp.com/) from [Orchestra](http://www.orchestra.com/), right?
 
-But how well will they fare against the well-funded [Asana](http://asana.com/), who’s original mission was to kill email?
+But how well will they fare against the well-funded [Asana](http://asana.com/), who’s [original mission was (apparently) to kill email](http://pandodaily.com/2012/06/27/the-root-of-the-problem-asana-boldly-aims-to-kill-email/)?
 
 YC is also backing different email startups: [Submittable](http://submittable.com/) is trying to replace email with a “Dropbox-like solution” while [Streak](http://www.streak.com/) is a CRM in your inbox.
 
 ## The Big Players: Google, Microsoft, Yahoo, AOL and... Facebook?
-Many of these email startups are building on top of Gmail, taking advantage of its OAuth access and targeting the 400+ million user base, many of whom are SMBs using Gmail Apps. Development on top of Gmail is strangely popular, considering the huge amount of work  it involves. But it seems like a trend that’s going to continue. And expect more from Google, at least according to the words of the CEO: “[I could probably give you a list of 10 major things that are wrong with email](http://www.wired.com/business/2013/01/ff-qa-larry-page/all)”.
+Many of these email startups are building on top of Chrome+Gmail, taking advantage of the OAuth access and targeting the 400+ million user base, many of whom are SMBs using Gmail Apps. Development on top of this platform is strangely popular, considering the huge amount of work  it involves. But it seems like a trend that’s going to continue. And expect more from Google, at least according to the words of the CEO: “[I could probably give you a list of 10 major things that are wrong with email](http://www.wired.com/business/2013/01/ff-qa-larry-page/all)”.
 
 Microsoft did not seen many startups target its most popular webmail service, Hotmail. Will things change with the new Outlook.com? On the other hand, the desktop counterpart Microsoft Outlook has historically provided an API for “add-ins”. The new Outlook 2013 comes with Office’s new web extension platform, “Agave”, which will allow developers to better target what is probably the most popular email client around.
 
-The previously most popular webmail service, Yahoo Mail, has also not seen much interest from email startups. They’ve presented a redesign of their services at the end of 2012, but with Gmail taking its crown, will that be enough? [What will Marissa do](http://online.wsj.com/article/SB10000872396390443517104577575420060344832.html?mod=WSJ_Tech_LEADTop)?
+The previously most popular webmail service, Yahoo Mail, has also not seen much interest from email startups. They’ve presented a redesign of their services at the end of 2012, but with Gmail taking the crown, will that be enough? [What will Marissa do](http://online.wsj.com/article/SB10000872396390443517104577575420060344832.html?mod=WSJ_Tech_LEADTop)?
 
 AOL has been busy with its email service. In late 2010 [Project Phoenix](http://phoenix.aol.com/) was revealed but less than a year later development was halted. It seems like efforts are now concentrated in [Alto](http://www.altomail.com/), a project presented in the second half of 2012.
 
-Facebook’s first move into the email world was through the notorious [Project Titan](http://techcrunch.com/2010/02/05/facebooks-project-titan-a-full-featured-webmail-product/). But what was presented at the time fell short of the expectations. Since then, its messaging service became to resemble more and more an email client, with attachments, @facebook.com addresses and a two panel layout similar do Apple Mail. And during last summer, it switched everyone’s profile to a public @facebook email address. Clearly there are more things in their sleeves.
+Facebook’s first move into the email world was through the notorious [Project Titan](http://techcrunch.com/2010/02/05/facebooks-project-titan-a-full-featured-webmail-product/). But what was presented at the time fell short of the expectations. Since then, its messaging service became to resemble more and more an email client, with attachments, @facebook.com addresses and a two panel layout similar to Apple Mail. And during last summer, it switched everyone’s profile to a public @facebook email address. Clearly there are more things in their sleeves.
 
 ## Powering the backend (also known as “The Arms Dealers”)
 Email innovation is not limited to user-facing apps. Action is also happening behind the curtains.
@@ -92,8 +92,5 @@ So what’s in the future for email? [Interesting things](https://twitter.com/se
 
 <img src="/resources/2012-11-17-the-current-state-of-the-email-ecosystem/tweets1.png" />
 <img src="/resources/2012-11-17-the-current-state-of-the-email-ecosystem/tweets2.png" />
-
-The end.
-
 
 <!-- I wish that there was decent todo management software that deeply integrated with my email. [Source](http://aaron.swartz.usesthis.com/) -->
