@@ -15,3 +15,10 @@ I can wave my hand, holding my phone and perform incredible feats of magic
 Magic is just a bunch of tricks
 
 How far away are we from the stuff that humans only dreamt of in the early days of civilization?
+
+
+## human enhancement
+
+### transhumanism
+
+
