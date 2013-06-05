@@ -79,3 +79,15 @@ estrutura clássica:
 - nieztsche
 
 - saber viver sozinho para saber viver em sociedade
+
+
+
+
+
+
+
+
+
+
+
+
