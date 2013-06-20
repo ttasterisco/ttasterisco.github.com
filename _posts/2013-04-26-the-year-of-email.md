@@ -95,4 +95,4 @@ So what’s in the future for email? [Interesting things](https://twitter.com/se
 
 <!-- I wish that there was decent todo management software that deeply integrated with my email. [Source](http://aaron.swartz.usesthis.com/) -->
 
-Originally written in November 2012. Last updated in April 2013.
+Originally written in November 2012.
