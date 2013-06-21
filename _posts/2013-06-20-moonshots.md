@@ -9,7 +9,7 @@ for ideas that won't advance humanity in any significant way, but I'd rather not
 
 You can tell that this is a word that's going to stick. A new buzzword for the years to come.
 
-<img src="/resources/2013-05-19-moonshots/moonshots-google-trends.png" />
+<img src="/resources/2013-06-20-moonshots/moonshots-google-trends.png" />
 
 So I'm going to <s>pollute</s> contribute with some thoughts that are nothing new, but hey, it's
 from my perspective.
@@ -76,7 +76,7 @@ in our pockets like Dragon Ball's capsules. Sure, if we could print things on de
 ourselves, there shouldn't be a need for "ownership" or "moving around", but still, human beings
 have a tendency to attachment and sometime's it's more about the trip than the destination.
 
-<img src="/resources/2013-05-19-moonshots/dragon-ball-capsule.png" />
+<img src="/resources/2013-06-20-moonshots/dragon-ball-capsule.png" />
 
 Imagine the problems this could solve! People could save major money and have a level of freedom
 that was never seen before.  Wanna live a few months or years in Thailand? Go ahead. Or maybe in
