@@ -5,9 +5,10 @@ summary:
 filename:
 ---
 
-this post contains survivor bias
+more things
+Attention: this post contains survivor bias.
 
-
+things
 
 
 

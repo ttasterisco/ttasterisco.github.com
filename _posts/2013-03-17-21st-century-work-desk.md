@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A History of Computer Technology and The Battle for the 21st Century Work Desk
+title: The Battle for the 21st Century Work Desk
 summary:
 filename:
 ---
@@ -24,17 +24,17 @@ As the computer revolution spread across different professions and as the first 
 Designers/Illustrators/etc came to embrace the tools developed by Adobe, Macromedia, Corel, etc
 Other professions: ...
 
-But the biggest? winner was clearly Microsoft, who's growth came not only from selling their operating system to both companies and home users, but also from their Enterprise side. Their ecosystem of tools for developers and companies to create customized software gave them pretty much unlimited power. 
+But the biggest? winner was clearly Microsoft, who's growth came not only from selling their operating system to both companies and home users, but also from their Enterprise side. Their ecosystem of tools for developers and companies to create customized software gave them pretty much unlimited power.
 
 ## 1995-2000s
 
 ### The internet revolution
-The world saw the most powerful manifestation of the tech sector in the second half of the 90s. The internet became mainstream. The 2nd generation tech giants were born (eBay, Amazon, Yahoo, Netscape, Google). But the big bang (heh) was the dotcom crash, with repercussions around the world. 
+The world saw the most powerful manifestation of the tech sector in the second half of the 90s. The internet became mainstream. The 2nd generation tech giants were born (eBay, Amazon, Yahoo, Netscape, Google). But the big bang (heh) was the dotcom crash, with repercussions around the world.
 
 ### The Open Source revolution
 At the same time as the internet revolution happened, another revolution that would only manifest a few years after, was quietly brewing. The internet came to power a tremendous collaborative effort around the world: Open Source Software. Linux, the epitome and most known project, was started in the early 90s. It was relatively popular between techies in the late 90s. But the actual explosion came at the end of the 90s/beginning of 2000 when the LAMP stack began to be popularized. The other 3 letters? Apache (which came to name the Apache Foundation that now nurtures many OSS projects such as Lucene/Solr, Cassandra, Cordova aka PhoneGap, etc etc), MySQL and PHP (or Perl or Python or whatever).
 
-Wikipedia is perhaps the most famous child of the marriage between the internet and the open source revolutions. What first was dismissed by many academics as a toy, viewed by Enciclopedia Britannica as "crap", quietly sailed through everything to become the most reliable source of knowledge in the world. Does anybody remember Microsoft Encarta? 
+Wikipedia is perhaps the most famous child of the marriage between the internet and the open source revolutions. What first was dismissed by many academics as a toy, viewed by Enciclopedia Britannica as "crap", quietly sailed through everything to become the most reliable source of knowledge in the world. Does anybody remember Microsoft Encarta?
 
 The death of Netscape brought us the Mozilla Foundation, the big responsible for Microsoft's non-dominance in the Web until the arise of the current Web Giants.
 
@@ -67,7 +67,7 @@ Google/Android and Apple/iOS
 
 
 Why we don't hear about companies like Workday
-It's because they serve a niche. A very profitable niche, no doubt about it, but still a niche. Their products do not impact the mainstream. Even if they enablers to others who do have great impact in the world, they do not. This is not a matter of good or bad. It's simply a choice, and I'm sure there are many who would not mind having the millions of dollars they have in revenue. 
+It's because they serve a niche. A very profitable niche, no doubt about it, but still a niche. Their products do not impact the mainstream. Even if they enablers to others who do have great impact in the world, they do not. This is not a matter of good or bad. It's simply a choice, and I'm sure there are many who would not mind having the millions of dollars they have in revenue.
 
 
 
