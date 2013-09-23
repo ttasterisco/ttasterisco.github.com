@@ -103,6 +103,6 @@ etc, etc, etc.
 Just wake me up when we get there.
 
 PS: I don't really like the pop-tone this post has. Feels like a waste of time and letters. Ah, fuck it.
-I might rehash it in the future. Posted on June 20th, 2013.
+I might rehash it in the future.
 
 Conception date: May 19th, 2013
