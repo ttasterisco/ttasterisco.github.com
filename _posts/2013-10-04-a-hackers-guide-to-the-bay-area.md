@@ -73,14 +73,14 @@ Approximately 7.15 million people live in the area, scattered over aproximately 
 The Bay Area's nine counties are Marin, Sonoma, Napa and Solano in the North, Contra Costa and Alameda in the East, Santa Clara in the South Bay
 and San Francisco and San Mateo in the Peninsula.
 
-<img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/01-bay-area.png" />
+<img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/01-bay-area.png" />
 
 ### <a id="geo-sv"> </a> Silicon Valley
 Silicon Valley is the historical name used to reference the southern part of the Bay. It is not a specific town or county, but a fairly wide region.
 
 Ground zero is the Santa Clara Valley. Over the years, other surrounding areas have been included. Nowadays, the Valley has shifted to an area that stretches from San Mateo to San Jose. More recently, it has been common to include San Francisco as part of the Valley, but I will keep the distinction.
 
-<img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/02-silicon-valley.png" />
+<img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/02-silicon-valley.png" />
 
 The most important cities in the Valley are:
 * San Jose: eBay, Adobe, Cisco, IBM Almaden Research Center
@@ -103,7 +103,7 @@ Companies try to stay close to these transportation arteries (specially the Calt
 ### <a id="geo-sf"> </a> San Francisco
 San Francisco has a land area of about 46.9 square miles (121 km^2) and a estimated population of 825,863 (2012 Census).
 
-<img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/03-san-francisco.png" />
+<img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/03-san-francisco.png" />
 
 Some major transit arteries:
 * Market Street: goes diagonally across the city, starting at The Embarcadero (northeast) until Corbett Avenue (southwest) in the Twin Peaks.
@@ -117,7 +117,7 @@ Twitter, Quantcast, Opentable, Salesforce, Yelp, The Climate Corporation, Zynga,
 ### <a id="geo-eb"> </a> East Bay
 Compared to the Valley or San Francisco, the East Bay does not see any relevant action in technology or startups. Still, it has some points of interest and it might become active as rents skyrocket in the City and the Valley and companies [are forced to look somewhere else to settle](http://www.berkeleyside.com/2013/09/16/why-we-moved-our-startup-from-san-francisco-to-berkeley-and-why-more-will-follow/) (it has certainly already happened with the people - more and more people are moving to Oakland, Emeryville and Berkeley).
 
-<img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/04-east-bay.png" />
+<img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/04-east-bay.png" />
 
 Berkeley is one of the most relevant cities in the East Bay. It is home to University of California, Berkeley (some famous alumni: Gordon Moore, Eric Schmidt, Steve Wozniak, Daniel Kahneman).
 
@@ -133,7 +133,7 @@ One of the biggest shocks I faced when I arrived to the Valley was finding out t
 ### Housing
 Living in the [Valley](https://www.baycitizen.org/news/economy/map-where-rich-live/) or San Francisco costs money. Lots of money.
 
-<a href="http://a.tiles.mapbox.com/v3/phes.Rent-Affordability-San-Francisco/page.html#13/37.7716/-122.4198"><img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/05-rent-affordability-sf-gap.png" /></a>
+<a href="http://a.tiles.mapbox.com/v3/phes.Rent-Affordability-San-Francisco/page.html#13/37.7716/-122.4198"><img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/05-rent-affordability-sf-gap.png" /></a>
 
 And if you are not from the US, you might find the process of getting a long term lease a bit bizarre. Not only the market for long term rental very competitive, but the list of requirements to fufill is quite extensive. It kind of explains why so many young adults share apartments with strangers.
 
@@ -155,7 +155,7 @@ If you're moving to the valley to work at the big tech companies, here's a (not-
 
 If you're an entrepreneur who just got accepted to YC or 500 Startups, you'll probably [want to be somewhere close to their offices](http://gigaom.com/2012/08/30/what-numbers-and-a-new-book-tell-us-about-the-y-combinator-way/) or at least where you can quickly get there, without running into traffic. Both YC and 500 Startups are located in Mountain View, close to the Caltrain.
 
-<img src="/resources/2013-09-17-a-hackers-guide-to-the-bay-area/07-500co-yc.png" />
+<img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/07-500co-yc.png" />
 
 If you're in the area running solo, freelancing, just checking out or just want a social place to do some work and don't mind not having a fixed desk, then coworking spaces are for you.
 
