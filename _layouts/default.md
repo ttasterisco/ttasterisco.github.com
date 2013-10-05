@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>(in)conception</title>
-  <meta name="author" content="Tony Tam" />
+  <meta name="author" content="" />
 
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/assets/css/common.css" type="text/css" />
