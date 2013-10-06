@@ -88,7 +88,7 @@ The most important cities in the Valley are:
 * Cupertino: Apple
 * Sunnyvale: AMD, Juniper, Yahoo
 * Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
-* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir
+* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware
 * Menlo Park: Facebook, SRI International
 * Redwood City: Oracle, Evernote, EA
 
