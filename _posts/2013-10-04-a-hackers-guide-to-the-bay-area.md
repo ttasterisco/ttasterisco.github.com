@@ -209,7 +209,7 @@ I haven't first hand experience with wired internet connection, so I can't talk 
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
 You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are your options:
-* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7, so watch out); more options here described [here](https://news.ycombinator.com/item?id=6502601)
+* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); more options [here](https://news.ycombinator.com/item?id=6502601)
 * Jogging
 * Hiking, Biking, Rock Climbing
 * Yoga, Martial Arts
