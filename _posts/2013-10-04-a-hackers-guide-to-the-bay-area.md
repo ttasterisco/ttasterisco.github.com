@@ -115,7 +115,7 @@ The city has over 100 neighborhoods. Tech activity is concentrated in the SoMa (
 Twitter, Quantcast, Opentable, Salesforce, Yelp, The Climate Corporation, Zynga, Dropbox and Uber are some examples of tech companies that have chosen to settle in the city.
 
 ### <a id="geo-eb"> </a> East Bay
-Compared to the Valley or San Francisco, the East Bay does not see much relevant action in technology or startups. Still, it has some points of interest and it might become active as rents skyrocket in the City and the Valley and companies [are forced to look somewhere else to settle](http://www.berkeleyside.com/2013/09/16/why-we-moved-our-startup-from-san-francisco-to-berkeley-and-why-more-will-follow/) (it has certainly already happened with the people - more and more people are moving to Oakland, Emeryville and Berkeley).
+Compared to the Valley or San Francisco, the East Bay does not see much relevant action in technology or startups. Still, it has some points of interest and it might become active as rents skyrocket in the City and the Valley and companies [decide to look somewhere else to settle](http://www.berkeleyside.com/2013/09/16/why-we-moved-our-startup-from-san-francisco-to-berkeley-and-why-more-will-follow/) (it has certainly already happened with the people - more and more people are moving to Oakland, Emeryville and Berkeley).
 
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/04-east-bay.png" />
 
