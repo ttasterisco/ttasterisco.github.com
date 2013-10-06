@@ -8,6 +8,8 @@ This guide is targeted to "hackers" who wish to move to the San Francisco Bay Ar
 This guide reflects my lifestyle - male, single, focused on work (in tech) and saving money, but keeping an eye on my health.
 I will only focus on things deemed important to "Hackers".
 
+More discussion here: https://news.ycombinator.com/item?id=6502430
+
 ## Table of Contents
 <table style="width:100%;">
   <tr>
@@ -86,7 +88,7 @@ The most important cities in the Valley are:
 * Cupertino: Apple
 * Sunnyvale: AMD, Juniper, Yahoo
 * Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
-* Palo Alto: HP, Xerox PARC, IDEO, Stanford University
+* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir
 * Menlo Park: Facebook, SRI International
 * Redwood City: Oracle, Evernote, EA
 
@@ -207,9 +209,9 @@ I haven't first hand experience with wired internet connection, so I can't talk 
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
 You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are your options:
-* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7, so watch out)
+* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7, so watch out); more options here described here: https://news.ycombinator.com/item?id=6502601
 * Jogging
-* Hiking, Biking
+* Hiking, Biking, Rock Climbing
 * Yoga, Martial Arts
 
 Points of interest? In the city, the more touristic stuff: Twin Peaks, Golden Gate, Alcatraz, SF MoMA, etc. Get a [CityPASS](http://www.citypass.com/san-francisco). Want a more tech-route? Check Paul's [list](http://paulgraham.com/seesv.html).
