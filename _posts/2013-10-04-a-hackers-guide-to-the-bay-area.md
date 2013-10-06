@@ -8,7 +8,7 @@ This guide is targeted to "hackers" who wish to move to the San Francisco Bay Ar
 This guide reflects my lifestyle - male, single, focused on work (in tech) and saving money, but keeping an eye on my health.
 I will only focus on things deemed important to "Hackers".
 
-More discussion here: https://news.ycombinator.com/item?id=6502430
+More discussion [here](https://news.ycombinator.com/item?id=6502430)
 
 ## Table of Contents
 <table style="width:100%;">
