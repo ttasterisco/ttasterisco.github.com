@@ -8,6 +8,8 @@ This guide is targeted to "hackers" who wish to move to the San Francisco Bay Ar
 This guide reflects my lifestyle - male, single, focused on work (in tech) and saving money, but keeping an eye on my health.
 I will only focus on things deemed important to "Hackers".
 
+More discussion [here](https://news.ycombinator.com/item?id=6502430)
+
 ## Table of Contents
 <table style="width:100%;">
   <tr>
@@ -86,7 +88,7 @@ The most important cities in the Valley are:
 * Cupertino: Apple
 * Sunnyvale: AMD, Juniper, Yahoo
 * Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
-* Palo Alto: HP, Xerox PARC, IDEO, Stanford University
+* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware
 * Menlo Park: Facebook, SRI International
 * Redwood City: Oracle, Evernote, EA
 
@@ -113,7 +115,7 @@ The city has over 100 neighborhoods. Tech activity is concentrated in the SoMa (
 Twitter, Quantcast, Opentable, Salesforce, Yelp, The Climate Corporation, Zynga, Dropbox and Uber are some examples of tech companies that have chosen to settle in the city.
 
 ### <a id="geo-eb"> </a> East Bay
-Compared to the Valley or San Francisco, the East Bay does not see any relevant action in technology or startups. Still, it has some points of interest and it might become active as rents skyrocket in the City and the Valley and companies [are forced to look somewhere else to settle](http://www.berkeleyside.com/2013/09/16/why-we-moved-our-startup-from-san-francisco-to-berkeley-and-why-more-will-follow/) (it has certainly already happened with the people - more and more people are moving to Oakland, Emeryville and Berkeley).
+Compared to the Valley or San Francisco, the East Bay does not see much relevant action in technology or startups. Still, it has some points of interest and it might become active as rents skyrocket in the City and the Valley and companies [are forced to look somewhere else to settle](http://www.berkeleyside.com/2013/09/16/why-we-moved-our-startup-from-san-francisco-to-berkeley-and-why-more-will-follow/) (it has certainly already happened with the people - more and more people are moving to Oakland, Emeryville and Berkeley).
 
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/04-east-bay.png" />
 
@@ -126,7 +128,7 @@ Living in the Bay Area is not for the faint of wallet. Certain parts of the Bay 
 
 Salaries for programmers usually range from 70k to 150k/year (depending on factors such as experience, type of company, technology).
 
-One of the biggest shocks I faced when I arrived to the Valley was finding out that it was a very suburban environment. Mountain View, Palo Alto, Sunnyvale are completely suburban. The common sight is of houses with large gardens and very little people walking in the street. Pretty much everyone drives. Tech companies are located in large industrial parks. Any kind of urban action is generally confined to a single main street close to the Caltrain (e.g. Castro St. in Mountain View, University Avenue in Palo Alto). On the other hand, San Francisco is what you'd expect from a city - an urban environment.
+One of the biggest shocks I faced when I arrived to the Valley was finding out that it was a very suburban environment. Mountain View, Palo Alto, Sunnyvale are completely suburban. The common sight is of houses with large gardens and very few people walking in the street. Pretty much everyone drives. Tech companies are located in large industrial parks. Any kind of urban action is generally confined to a single main street close to the Caltrain (e.g. Castro St. in Mountain View, University Avenue in Palo Alto). On the other hand, San Francisco is what you'd expect from a city - an urban environment.
 
 ### Housing
 Living in the [Valley](https://www.baycitizen.org/news/economy/map-where-rich-live/) or San Francisco costs money. Lots of money.
@@ -206,10 +208,10 @@ There are plenty of resellers that use the big carriers' networks. I go with one
 I haven't first hand experience with wired internet connection, so I can't talk much about that.
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
-You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are your options:
-* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7, so watch out)
+You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are some options:
+* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); more options [here](https://news.ycombinator.com/item?id=6502601)
 * Jogging
-* Hiking, Biking
+* Hiking, Biking, Rock Climbing
 * Yoga, Martial Arts
 
 Points of interest? In the city, the more touristic stuff: Twin Peaks, Golden Gate, Alcatraz, SF MoMA, etc. Get a [CityPASS](http://www.citypass.com/san-francisco). Want a more tech-route? Check Paul's [list](http://paulgraham.com/seesv.html).
