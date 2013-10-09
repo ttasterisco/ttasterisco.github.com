@@ -49,7 +49,7 @@ Create a [`system.properties`](https://devcenter.heroku.com/articles/add-java-ve
 `java.runtime.version=1.7`
 
 ## Deploying
-On your shell, run the following commands
+In your shell, run the following commands
 
 <pre>
 <code>
