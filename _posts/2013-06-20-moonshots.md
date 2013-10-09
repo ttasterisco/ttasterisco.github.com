@@ -37,7 +37,7 @@ location's materializer (an ultra advanced 3D printer from Star Trek?) and in a 
 an eye, it's there. Sure, we have to solve a billion sub-problems until something like this
 is possible, but that's your actual moonshot.
 
-Human++: let's start enhancing our bodies for real. Ever since X-Men that I'd like to possess
+Human++: let's start enhancing our bodies for real. Ever since I read X-Men, I've wanted to possess
 telekinetic powers. That cup is too far away? Just do a gesture with my hand and have the cup
 come to me. Or even only think about it. Where are my keys? Keys: show yourself! You get the
 drill. What about flying? Exoskeletons were so popular in 20th century comics (Iron Man being
@@ -53,7 +53,7 @@ can understand. Or how to make it fundamentally copyable to everyone (not just w
 actual chemical formula that when introduced into your body would make you just know).
 
 Next on the list is a prediction/intention machine! I've seen some writings around this.
-Basically guessing the future! Yes, just like minority report or even better, like Fringe, where there
+Basically guessing the future! Yes, just like Minority Report or even better, like Fringe, where there
 was this guy who could calculate the probabilities of events just like the Observers! That's the real
 power of data, to be able to know the future. And with enough data... you just might be able to do so.
 (I wonder if we already have someone in the NSA working on this.)
@@ -74,7 +74,7 @@ to move around and transport your belongings. Not tents - we want a bit more of 
 Think turtle shells. Or the TARDIS. We could carry a backpack - or something smaller that could fit
 in our pockets like Dragon Ball's capsules. Sure, if we could print things on demand or teleport
 ourselves, there shouldn't be a need for "ownership" or "moving around", but still, human beings
-have a tendency to attachment and sometime's it's more about the trip than the destination.
+have a tendency to attachment and sometimes it's more about the trip than the destination.
 
 <img src="/resources/2013-06-20-moonshots/dragon-ball-capsule.png" />
 
