@@ -10,7 +10,7 @@ maybe more advanced stuff, like graph generation?
 
 the idea would be something like:
 
-[markdown source] -> transformation 1 -> transformation 2 -> ... -> end html/whatever output
+markdown source - transformation 1 - transformation 2 - ... - end html/whatever output
 
 i.e. markdown as source code
 
