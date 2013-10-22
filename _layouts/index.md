@@ -10,6 +10,8 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
     </a>
   </div>
 
+  <!-- [rss icon here] -->
+
   <div class="title">
     <a class="link" href="/">{{site.name}}</a>
   </div>
