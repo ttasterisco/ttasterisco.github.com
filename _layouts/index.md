@@ -4,8 +4,11 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
 ---
 
 <div class="header">
-  <div class="contact">
-    <a href="/about.html">
+  <div class="icons">
+    <a class="icon feed" href="/atom.xml">
+      <img src="/assets/images/feed.png">
+    </a>
+    <a class="icon about" href="/about.html">
       ?
     </a>
   </div>
