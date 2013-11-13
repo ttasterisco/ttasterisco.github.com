@@ -4,7 +4,7 @@ title: I guess this is how YC feels like
 summary:
 ---
 
-##### Disclaimer: I am not part of YC. Yet.
+##### Disclaimer: I am not part of YC.
 
 <img src="http://ycombinator.com/slideshow/0.jpg">
 <img src="http://ycombinator.com/slideshow/1.jpg">

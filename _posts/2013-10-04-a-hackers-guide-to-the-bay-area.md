@@ -10,6 +10,8 @@ I will only focus on things deemed important to "Hackers".
 
 More discussion [here](https://news.ycombinator.com/item?id=6502430).
 
+[Japanese version](http://bayareaguidejp.github.io/) by [@legoboku](https://twitter.com/legoboku).
+
 ## Table of Contents
 <table style="width:100%;">
   <tr>
