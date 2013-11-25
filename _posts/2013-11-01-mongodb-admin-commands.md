@@ -8,7 +8,7 @@ summary:
 ; launch mongodb ...
 
 
-
+<!--
 
 ; access the admin database
 db = db.getSiblingDB('admin')
@@ -21,3 +21,5 @@ db.system.users.update({user: "ttasterisco"}, { $set: { "roles": ["userAdminAnyD
 show dbs
 
 db.addUser({user:"username", pwd:"password", roles: ["readWrite"]})
+
+-->

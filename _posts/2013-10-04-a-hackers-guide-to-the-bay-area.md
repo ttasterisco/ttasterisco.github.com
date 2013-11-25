@@ -148,7 +148,7 @@ For medium (few months) to long term leases (>= 1 year), [Craigslist](http://sfb
 
 With all the constraints of finding a place and the not-so-cheap prices, it is easy to understand why so many people are homeless or now deciding to live in trailers.
 
-A "hacker" alternative is what is commonly known as a "[Hacker Hostel](http://www.nytimes.com/2012/07/06/technology/at-hacker-hostels-living-on-the-cheap-and-dreaming-of-digital-glory.html?pagewanted=all)". It's a relatively "new" phenomenom (~2007), but one that has grown in popularity around the Bay Area. The mood/spirit/environment depends on each house and also on the time of the year, since visitors are usually on a short-medium stay. You'll be able to find bunk beds listed at Airbnb for around $50+.
+A "hacker" alternative is what is commonly known as a "[Hacker Hostel](http://www.nytimes.com/2012/07/06/technology/at-hacker-hostels-living-on-the-cheap-and-dreaming-of-digital-glory.html?pagewanted=all)". It's a relatively "new" phenomenom (~2007), but one that has grown in popularity around the Bay Area. The mood/spirit/environment depends on each house and also on the time of the year, since visitors are usually on a short-medium stay. You'll be able to find bunk beds listed on Airbnb for around $50+.
 
 ### Work
 If you're moving to the Valley to work at the big tech companies, here's a (not-so-good) map with some of their HQs (keep in mind that some companies, e.g., Google, might have multiple buildings scattered around the Bay Area, sometimes with offices in San Francisco and in the Valley, e.g., Yahoo):
@@ -207,7 +207,7 @@ US mobile plans are a bit more expensive than I'd like. The big phone carriers a
 
 There are plenty of resellers that use the big carriers' networks. I go with one of the resellers: Straight Talk. They offer unlimited text and voice (US only) and "unlimited" data (that actually gets capped if you abuse it - and might get you completely cut, so beware). But it's hard to beat the price: $45 per month. You must bring your own device. In the Bay Area, Straight Talk uses T-Mobile's network. For international calls, just use Skype.
 
-I haven't had first hand experience with wired internet connection, so I can't talk much about that (edit: people have suggested Sonic.net.
+I haven't had first hand experience with wired internet connection, so I can't talk much about that (edit: people have suggested Sonic.net).
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
 You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are some options:
@@ -220,7 +220,7 @@ Points of interest? In the City, the more touristic stuff: Twin Peaks, Golden Ga
 
 Want to learn about tech from the most experienced people and/or meet new people that do not come from your circle (or maybe you just dropped solo and know no one)? Go to tech [meetups](http://www.meetup.com). Pick the groups based on technologies you know or want to learn and you'll be able to visit a bunch of tech offices. And most of the meetups have food for you! Some companies also sponsor some meetups outside of the Meetup platform, like [Airbnb](http://www.airbnb.com/techtalks) - it's a good way for them to build their brand for engineers and recruit people.
 
-I find hackathons [\[1\]](https://www.quora.com/San-Francisco-Bay-Area/What-are-the-hackathons-taking-place-in-the-Bay-Area-during-2012-13) [\[2\]](https://www.hackerleague.org/hackathons) to be a great way to try out new concepts and/or technologies in a very constrained environment - you have limited time (usually a weekend), forcing you to be objective and resourceful. (tip: It's also a great way to develop your pitching skills). And if you learn to be picky, some have intere$ting prizes and, of course, free food! The big hackathons will also have sponsors with free swag (e.g., t-shirts so you can delay doing your laundry for another week).
+I find hackathons [\[1\]](https://www.quora.com/San-Francisco-Bay-Area/What-are-the-hackathons-taking-place-in-the-Bay-Area-during-2012-13) [\[2\]](https://www.hackerleague.org/hackathons) to be a great way to try out new concepts and/or technologies in a very constrained environment - you have limited time (usually a weekend), forcing you to be objective and resourceful (tip: It's also a great way to develop your pitching skills). And if you learn to be picky, some have intere$ting prizes and, of course, free food! The big hackathons will also have sponsors with free swag (e.g., t-shirts so you can delay doing your laundry for another week).
 
 ### Shopping
 It would be cool if the free swag companies offered would go beyond t-shirts to include pants - that would complement so well. Since that hasn't happened yet, you can buy clothes at affordable prices from a bunch places: thrift stores around the City and the East Bay, [Ross Dress for Less](http://www.rossstores.com/). Even big name brands like Levi's have stuff at poor-hacker prices.
