@@ -31,6 +31,27 @@ But Bitcoin (or any kind of digital currency that is a first class citizen) has 
 
 
 
+
+
+
+
+
+
+
+## unsorted
+Why deflation and ever rising bitcoin values don't matter: bitcoin buyers are now accostumed to the unstable prices
+
+if bitcoin goes down: gives them an incentive to use it
+if bitcoin goes up: more buying power
+
+bitcents and satoshis will keep the economy functioning - promotes rational spending
+
+real question is if "businesses"/workers keep accepting - there must be an incentive
+the incentive is that the early adopters will treat bitcoin as 1st class citizens
+they will prefer bitcoin to fiat currencies
+
+Programmable Money
+
 ## The Lack of a "Killer App"
 The main critic of Bitcoin is that, for now, it is technically useless. You can't do anything real with it, yet.
 And for a long time, I too thought this was what would make or break Bitcoin. Either a real application of Bitcoin would appear in the near-future or people would give up on Bitcoin.
