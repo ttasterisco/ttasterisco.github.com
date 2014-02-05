@@ -4,10 +4,7 @@ title: Bitcoin and The Future
 summary: The importance of a decentralized digital cryptocurrency in a digital and service based society, or why Bitcoin will win.
 ---
 
-The importance of a decentralized digital cryptocurrency in a digital and service based society, or why Bitcoin will win.
-
-November'13 has seen another rebirth for Bitcoin. The value has soared and with it, the number of mainstream media appearences and discussion around the Globe.
-Here, I argue that Bitcoin will be the cherry on top of the Digital Economy, as envisioned by its creator.
+November'13 has seen another rebirth for Bitcoin (the first being in April'13). The value has soared and the digital currency has breaken into mainstream media and foastered discussions around the Globe. Here, I argue (without any facts) that Bitcoin will be the cherry on top of the Digital Economy. I am one of the creators of [Bitcoin Pulse](http://www.bitcoinpulse.com).
 
 ## Neo-Money
 Bitcoin certainly seems too good to be true. Created by an anonymous crypto-genius with the pseudonym "Satoshi Nakamoto" and named with the most simple concatenation possible ("bit" + "coin" - why wasn't this taken yet?!), it came to "disrupt" the old money establishment that has been abusing the trust of consumers. How much more Hollywoodesque can you get?

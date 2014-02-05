@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is it Possible to Build a Giant Technology Company Without War?
+title: Is it Possible to Build a Giant Technology Company Without Conflict?
 summary:
 ---
 
