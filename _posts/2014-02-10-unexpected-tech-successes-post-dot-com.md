@@ -1,6 +1,19 @@
+the victory of open systems
 
+the internet
+
+linux
 
 wikipedia
+
+open source software
+
+bitcoin
+
+
+
+
+
 
 
 
@@ -12,7 +25,6 @@ youtube
 
 
 
-open source software
 
 
 
