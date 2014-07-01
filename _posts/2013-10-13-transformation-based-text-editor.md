@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-summary:
+title: transformation based text editor??
+summary: ??????
 ---
 
 this post http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html made me think if we could use a transformation based process over markdown

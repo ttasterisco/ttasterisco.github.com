@@ -1,4 +1,4 @@
 name: (in)conception
-pygments: true
+highlighter: pygments
 description: highly opiniated writings.
 url: http://islandofatlas.net
