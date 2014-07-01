@@ -2,3 +2,4 @@ name: (in)conception
 highlighter: pygments
 description: highly opiniated writings.
 url: http://islandofatlas.net
+markdown: kramdown
