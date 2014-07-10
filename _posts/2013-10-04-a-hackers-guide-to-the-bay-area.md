@@ -108,9 +108,12 @@ San Francisco has a land area of about 46.9 square miles (121 km^2) and a estima
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/03-san-francisco.png" />
 
 Some major transit arteries:
-* Market Street: goes diagonally across the city, starting at The Embarcadero (northeast) until Corbett Avenue (southwest) in the Twin Peaks.
-* Van Ness/South Van Ness Avenue: goes north-south, from Bay St. (north), cuts through Market St., until Cesar Chavez St (South).
-* Geary Boulevard/Street: goes east-west, from Market St. to 48th Avenue in the Richmod District (west), close to the Ocean.
+
+- Market Street: goes diagonally across the city, starting at The Embarcadero (northeast) until Corbett Avenue (southwest) in the Twin Peaks.
+
+- Van Ness/South Van Ness Avenue: goes north-south, from Bay St. (north), cuts through Market St., until Cesar Chavez St (South).
+
+- Geary Boulevard/Street: goes east-west, from Market St. to 48th Avenue in the Richmod District (west), close to the Ocean.
 
 The City has over 100 neighborhoods. Tech activity is concentrated in the SoMa (South of Market) and Mission neighborhoods, but you'll even hear startup talk in coffee shops in the Sunset.
 
@@ -211,10 +214,14 @@ I haven't had first hand experience with wired internet connection, so I can't t
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
 You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are some options:
-* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); more options [here](https://news.ycombinator.com/item?id=6502601)
-* Jogging
-* [Hiking](http://www.bahiker.com/), Biking, Rock Climbing
-* Yoga, Martial Arts
+
+- [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); [Fitness SF](http://fitnesssf.com/) if you're in the city; more options [here](https://news.ycombinator.com/item?id=6502601)
+
+- Jogging
+
+- [Hiking](http://www.bahiker.com/), Biking, Rock Climbing
+
+- Yoga, Martial Arts
 
 Points of interest? In the City, the more touristic stuff: Twin Peaks, Golden Gate, Alcatraz, SF MoMA, etc. Get a [CityPASS](http://www.citypass.com/san-francisco). Want a more tech-route? Check Paul's [list](http://paulgraham.com/seesv.html).
 
