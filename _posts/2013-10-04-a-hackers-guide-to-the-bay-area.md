@@ -85,14 +85,22 @@ Ground zero is the Santa Clara Valley. Over the years, other surrounding areas h
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/02-silicon-valley.png" />
 
 The most important cities in the Valley are:
-* San Jose: eBay, Adobe, Cisco, IBM Almaden Research Center
-* Santa Clara: Intel, Nvidia, Applied Materials
-* Cupertino: Apple
-* Sunnyvale: AMD, Juniper, Yahoo
-* Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
-* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware, Tesla, SAP
-* Menlo Park: Facebook, SRI International
-* Redwood City: Oracle, Evernote, EA
+
+- San Jose: eBay, Adobe, Cisco, IBM Almaden Research Center
+
+- Santa Clara: Intel, Nvidia, Applied Materials
+
+- Cupertino: Apple
+
+- Sunnyvale: AMD, Juniper, Yahoo
+
+- Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
+
+- Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware, Tesla, SAP
+
+- Menlo Park: Facebook, SRI International
+
+- Redwood City: Oracle, Evernote, EA
 
 But startups, medium and large companies can be found virtually anywhere in the area. And the high price of rents has been pushing companies to spread further and further out of the original Valley.
 
@@ -108,9 +116,12 @@ San Francisco has a land area of about 46.9 square miles (121 km^2) and a estima
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/03-san-francisco.png" />
 
 Some major transit arteries:
-* Market Street: goes diagonally across the city, starting at The Embarcadero (northeast) until Corbett Avenue (southwest) in the Twin Peaks.
-* Van Ness/South Van Ness Avenue: goes north-south, from Bay St. (north), cuts through Market St., until Cesar Chavez St (South).
-* Geary Boulevard/Street: goes east-west, from Market St. to 48th Avenue in the Richmod District (west), close to the Ocean.
+
+- Market Street: goes diagonally across the city, starting at The Embarcadero (northeast) until Corbett Avenue (southwest) in the Twin Peaks.
+
+- Van Ness/South Van Ness Avenue: goes north-south, from Bay St. (north), cuts through Market St., until Cesar Chavez St (South).
+
+- Geary Boulevard/Street: goes east-west, from Market St. to 48th Avenue in the Richmod District (west), close to the Ocean.
 
 The City has over 100 neighborhoods. Tech activity is concentrated in the SoMa (South of Market) and Mission neighborhoods, but you'll even hear startup talk in coffee shops in the Sunset.
 
@@ -153,7 +164,7 @@ A "hacker" alternative is what is commonly known as a "[Hacker Hostel](http://ww
 ### Work
 If you're moving to the Valley to work at the big tech companies, here's a (not-so-good) map with some of their HQs (keep in mind that some companies, e.g., Google, might have multiple buildings scattered around the Bay Area, sometimes with offices in San Francisco and in the Valley, e.g., Yahoo):
 
-<a href="http://www.siliconmaps.com/SV13_Map.html"><img src="http://www.siliconmaps.com/SV13_Preview.jpg" width="50%" /></a>
+<a href="http://www.siliconmaps.com/SV14_1_6_14s.jpg"><img src="http://www.siliconmaps.com/SV14_1_6_14s.jpg" width="50%" /></a>
 
 If you're an entrepreneur who just got accepted to YC or 500 Startups, you'll probably [want to be somewhere close to their offices](http://gigaom.com/2012/08/30/what-numbers-and-a-new-book-tell-us-about-the-y-combinator-way/) or at least where you can quickly get there, without running into traffic. Both YC and 500 Startups are located in Mountain View, close to the Caltrain.
 
@@ -190,7 +201,7 @@ The BART is the train system that connects (mainly) San Francisco and the East B
 
 Traffic in the Bay Area can seem strange at first sight. It's one of the few places where, in the morning, the traffic jams from the City to the Suburbs and, in the afternoon, from the Suburbs to the City. This is because a lot of people live in the City and commute to the Peninsula/South Bay to work.
 
-For getting around in San Francisco, you can catch the MUNI, the major public transportation system in the city, covering most of it with its buses and a few metropolitan-like trains. Unfortunately it is not the most reliable system, so it is not uncommon to experience random delays. A ride costs $2.
+For getting around in San Francisco, you can catch the MUNI, the major public transportation system in the city, covering most of it with its buses and a few metropolitan-like trains. Unfortunately it is not the most reliable system, so it is not uncommon to experience random delays. A ride costs $2. Make sure you bookmark [NextMuni](http://www.nextmuni.com/) for actual MUNI times.
 
 My preferred transportation system is the bicycle. San Francisco has plenty of [bike routes](http://www.7x7.com/fitness-outdoors/five-bike-routes-every-san-francisco-rider-should-know). Google Maps has an okay bike route option but it doesn't seem to take into much consideration the steepness of the paths. [This calculator](http://amarpai.com/bikemap/) might help you with that.
 
@@ -211,10 +222,14 @@ I haven't had first hand experience with wired internet connection, so I can't t
 
 ### <a id="activities"> </a> Life is for Living, Activities, etc
 You should be exercising [\[1\]](http://sethbannon.com/paul-graham-thinks-you-should-exercise). Here are some options:
-* [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); more options [here](https://news.ycombinator.com/item?id=6502601)
-* Jogging
-* [Hiking](http://www.bahiker.com/), Biking, Rock Climbing
-* Yoga, Martial Arts
+
+- [24 Hour Fitness](http://www.24hourfitness.com/) gyms (some are not really open 24/7 and not everyone likes the chain, so watch out); [Fitness SF](http://fitnesssf.com/) if you're in the city; more options [here](https://news.ycombinator.com/item?id=6502601)
+
+- Jogging
+
+- [Hiking](http://www.bahiker.com/), Biking, Rock Climbing
+
+- Yoga, Martial Arts
 
 Points of interest? In the City, the more touristic stuff: Twin Peaks, Golden Gate, Alcatraz, SF MoMA, etc. Get a [CityPASS](http://www.citypass.com/san-francisco). Want a more tech-route? Check Paul's [list](http://paulgraham.com/seesv.html).
 
