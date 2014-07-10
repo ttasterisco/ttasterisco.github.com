@@ -271,3 +271,16 @@ more control over what operations you'll make with the server (TODO: examples?)
 applications
 
 
+
+
+
+
+
+
+
+
+
+Changing things in the layout is more work than changing an .html file.
+Specially in the case of "static" elements, where I might just want to add a div with some message
+or an image, etc. It requires you to find the file and the function that implements the component.
+
