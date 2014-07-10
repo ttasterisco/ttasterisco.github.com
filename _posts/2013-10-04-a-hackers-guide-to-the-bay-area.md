@@ -153,7 +153,7 @@ A "hacker" alternative is what is commonly known as a "[Hacker Hostel](http://ww
 ### Work
 If you're moving to the Valley to work at the big tech companies, here's a (not-so-good) map with some of their HQs (keep in mind that some companies, e.g., Google, might have multiple buildings scattered around the Bay Area, sometimes with offices in San Francisco and in the Valley, e.g., Yahoo):
 
-<a href="http://www.siliconmaps.com/SV13_Map.html"><img src="http://www.siliconmaps.com/SV13_Preview.jpg" width="50%" /></a>
+<a href="http://www.siliconmaps.com/SV14_1_6_14s.jpg"><img src="http://www.siliconmaps.com/SV14_1_6_14s.jpg" width="50%" /></a>
 
 If you're an entrepreneur who just got accepted to YC or 500 Startups, you'll probably [want to be somewhere close to their offices](http://gigaom.com/2012/08/30/what-numbers-and-a-new-book-tell-us-about-the-y-combinator-way/) or at least where you can quickly get there, without running into traffic. Both YC and 500 Startups are located in Mountain View, close to the Caltrain.
 
@@ -190,7 +190,7 @@ The BART is the train system that connects (mainly) San Francisco and the East B
 
 Traffic in the Bay Area can seem strange at first sight. It's one of the few places where, in the morning, the traffic jams from the City to the Suburbs and, in the afternoon, from the Suburbs to the City. This is because a lot of people live in the City and commute to the Peninsula/South Bay to work.
 
-For getting around in San Francisco, you can catch the MUNI, the major public transportation system in the city, covering most of it with its buses and a few metropolitan-like trains. Unfortunately it is not the most reliable system, so it is not uncommon to experience random delays. A ride costs $2.
+For getting around in San Francisco, you can catch the MUNI, the major public transportation system in the city, covering most of it with its buses and a few metropolitan-like trains. Unfortunately it is not the most reliable system, so it is not uncommon to experience random delays. A ride costs $2. Make sure you bookmark [NextMuni](http://www.nextmuni.com/) for actual MUNI times.
 
 My preferred transportation system is the bicycle. San Francisco has plenty of [bike routes](http://www.7x7.com/fitness-outdoors/five-bike-routes-every-san-francisco-rider-should-know). Google Maps has an okay bike route option but it doesn't seem to take into much consideration the steepness of the paths. [This calculator](http://amarpai.com/bikemap/) might help you with that.
 
