@@ -85,14 +85,22 @@ Ground zero is the Santa Clara Valley. Over the years, other surrounding areas h
 <img src="/resources/2013-10-04-a-hackers-guide-to-the-bay-area/02-silicon-valley.png" />
 
 The most important cities in the Valley are:
-* San Jose: eBay, Adobe, Cisco, IBM Almaden Research Center
-* Santa Clara: Intel, Nvidia, Applied Materials
-* Cupertino: Apple
-* Sunnyvale: AMD, Juniper, Yahoo
-* Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
-* Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware, Tesla, SAP
-* Menlo Park: Facebook, SRI International
-* Redwood City: Oracle, Evernote, EA
+
+- San Jose: eBay, Adobe, Cisco, IBM Almaden Research Center
+
+- Santa Clara: Intel, Nvidia, Applied Materials
+
+- Cupertino: Apple
+
+- Sunnyvale: AMD, Juniper, Yahoo
+
+- Mountain View: Google, Intuit, Linkedin, Mozilla, Symantec, NASA Ames Research Center
+
+- Palo Alto: HP, Xerox PARC, IDEO, Stanford University, Palantir, VMware, Tesla, SAP
+
+- Menlo Park: Facebook, SRI International
+
+- Redwood City: Oracle, Evernote, EA
 
 But startups, medium and large companies can be found virtually anywhere in the area. And the high price of rents has been pushing companies to spread further and further out of the original Valley.
 
