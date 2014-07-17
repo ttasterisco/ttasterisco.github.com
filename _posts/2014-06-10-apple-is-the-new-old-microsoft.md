@@ -42,3 +42,15 @@ everything windows only (.net) instead of trying to be portable (java)
  has the gotcha that you must control the market to be successful -
 once you slip (rails, ios), you're in big trouble
 
+
+
+what about dogfooding? if most valley developers and designers don't work
+with windows, that means what they're building will never get the same
+level of experience as with other platforms - and no, testing if things
+work in windows is not the same as constantly using windows (remember
+facebook's android enforcement on their employees?)
+do you really believe anyone developing webapps today has windows 8's
+touch mode in mind when developing a website? I can assure you many do
+put apple's retina display support as a priority though.
+
+
