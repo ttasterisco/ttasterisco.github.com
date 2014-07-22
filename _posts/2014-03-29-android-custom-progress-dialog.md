@@ -151,7 +151,7 @@ That's the core of it! Now, in our `AsyncTask`, we can create and call our `Cust
       }
     }
 
-And that's it! Simple and easily reusable in our future apps! Here's an [example project](http://github.com/ttasterisco/CustomProgressDialog) that you can test.
+And that's it! Simple and easily reusable in our future apps! Here's an [example project](https://github.com/ttasterisco/CustomProgressDialogExample) that you can test.
 Enjoy!
 
 Conception date: March 25th, 2014
