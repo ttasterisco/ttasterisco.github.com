@@ -8,9 +8,11 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
     <a class="icon feed" href="/atom.xml">
       <img src="/assets/images/feed.png">
     </a>
+    <!--
     <a class="icon about" href="/about.html">
       ?
     </a>
+    -->
   </div>
 
   <div class="title">
