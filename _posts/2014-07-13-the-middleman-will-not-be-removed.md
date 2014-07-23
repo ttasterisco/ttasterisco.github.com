@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Middleman will not be removed
+title: The Middleman Will Not be Removed
 summary: A reply to Fred Wilson's "Platform Monopolies"
 ---
 

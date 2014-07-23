@@ -4,31 +4,80 @@ title: Apple is the New Old Microsoft
 summary: or, Developers, Developers, Developers
 ---
 
-Fun fact: roughly 85% of Facebook's ~10k employees (total) use Mac, with similar numbers at
-Google (~50k total employees) and I guess at most valley companies. So this would be around
-....... using Macs on their day to day as Software Developers, Designers, Marketing and Business
-"people".
+A story about the importance of controlling the platform that creators use in
+their day to day lives (aka Steve Ballmer was right).
 
-Why is this relevant? Let's consider how the cycle of software development currently work.
+## This is How it Starts
 
-[describe how software is developed and how open source software fits]
+Fun fact: roughly 85% of Facebook's ~10k employees (total) use Apple's Mac laptops,
+with similar numbers at Google (~50k total employees) and I guess the same for most
+Bay Area companies
+[TODO: find stats of number of workers in technology companies in the bay area]
+So this would be around ....... using Macs on their day to day as Software
+Developers and Designers. Plus a few more "Marketing and Business people" and so on.
+And that's just from some of the public companies of the Bay Area.
+
+Why is this relevant? Because these people are not just anyone. They are creators
+and influencers. They are the ones who build things that enable others to operate
+in the digital economy. That means they build the software you use in your day to day
+or they build the software that people make your software use.
+
+For a better understanding of the impact of the dominance of the Operating System in
+the software development ecossystem, let us consider how the cycle of software
+development currently work.
+
+[TODO: describe how software is developed and how open source software fits]
+
+[TODO: hmmm... this needs to be better backed up]
+First, Operating Systems have not become less important, as many might led us to believe,
+due to the rise of Android and iOS. Yes, there are less and less people using tradiitonal
+OSes. But the shift of the last ~10 years has had the consequence of making the traditional
+OS even more important to the hands of their first and main users: Developers and Designers.
 
 
-Some of the most important open source software tools come from Valley companies. [note ...]
 
-Guess what runtime platform they target? Mac OS X and Linux.
 
-Let's take the example of one of the most OSS tools (that wasn't built in the Valley): git
-Guess where it runs natively? Linux and Mac. Guess which OS it had to ported to by someone not named Linus?
-Windows!
 
-Let's take another example, this time of hosting. What's the largest repository of OSS? Github!
 
-Want to use the newest/hippest/bestest programming tools/languages? Even if they run on Windows from day 1
-(arhem, Atom), guess what platform the tutorials from the community will NOT be written for? yeap, Windows...
+It is a fact that some of the most important open source software tools come
+from Bay Area companies. And guess what runtime platform they target? Yes,
+Mac OS X and Linux.
 
-Remember the hippest programming language coming from Microsoft? Typescript? F#? Probably C# back in 2003?
-Go check the hype with apple's Swift or Google's Go[lang]
+And outside the Bay Area? Let's take the example of one of the most important
+OSS tools of the last 10 years: git. Guess where it runs natively? Yeap, Linux
+and Mac. Guess which OS it had to be ported to and is still unofficially maintained?
+Yeap, Windows! [TODO: check this]
+
+And what's the importance of a simple source code version management tool? I mean,
+Concurrent Versions System and Subversion did not target Windows in the beginning
+either but that didn't stop Windows during the late 90s/early-mid 2ks, right?
+
+Well, the difference with git is that the latter paved the way for the most popular
+repository of Open Source Software, larger in dimension and cultural impact than
+Sourceforge or Google Code ever had - Github (there's a reason why GitHub resumé is
+a thing but Sourceforge CV was never a thing).
+
+Another very good example of how Microsoft lost the war is in Web Development.
+Billy G. and his executives were clear in the future, they understood how the Web
+would change Microsoft's business model and were quick to control it during the late
+90s. But that wasn't enough, and Ballmer's Microsoft was not paying enough attention
+to the rise of Server Side Web Development, namely Ruby on Rails. RoR was probably
+the first big reason for Developers to switch into Mac machines - the exodus had
+already started before RoR's appearence, but DHH's creation certainly made it
+mainstream. Because if you wanted to work with RoR, you would surely use a Macbook
+and TexMate.
+
+And the trend has stayed with us: Want to use the newest/hippest/bestest programming
+tools or languages? Even if they run on Windows from day 1 (arhem, Atom), guess what
+platform the tutorials from the community will NOT be written for?
+
+[TODO: sequence of thought...]
+
+The lack of innovation in the Software Development front of the Microsoft Camp is so
+clear, that I have trouble remembering what was the hippest programming language coming
+from Microsoft? Probably F#, but that hasn't sticked. Heck, even Haskell got to be a lot
+more popular. But go check the hype with Apple's Swift or Google's Go[lang] for a taste
+of how it's currently done.
 
 Microsoft is destined to lose major innovation waves unless there's a revolution in windows - and I dont
 mean adding touch support - I mean the kind of revolution that made Macs use intel x86 - windows somehow
@@ -69,6 +118,25 @@ touch mode in mind when developing a website? I can assure you many do
 put apple's retina display support as a priority though.
 
 
+it's incredible how much microsoft has fallen in the server world
+windows nt and windows server, once such dominant beasts in the server
+side operating system world, has not paved the way for anything
+relevant
+
+and with that, the waterfall effect into their tools division - sql server,
+exchange, billion dollar businesses, only survive today due to lock in
+
+
+and the effects can trickle further
+in an ever increasingly digital world, for non-digital companies, using the
+right technological tools can give you an advantage over your competitors
+and using the wrong tools can doom you
+companies still locked into the microsoft-only world are most probably companies
+that have trouble adapting to a new world and ripe for disruption
+they might be doomed once upstart competitors lock in into their markets
+even governments are moving away from microsoft
+
+but is microsoft really to blame for all this?
 
 
 
