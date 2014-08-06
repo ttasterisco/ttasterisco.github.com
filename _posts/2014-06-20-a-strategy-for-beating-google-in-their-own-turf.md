@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Strategy for Beating Google in their Own Turf or How Google Search Might Have to Start Moving
-summary:
+title: A Strategy for Beating Google in their Own Turf
+summary: How Google Search Might Get "Disrupted"
 ---
 
 - you cant go head to head with google search

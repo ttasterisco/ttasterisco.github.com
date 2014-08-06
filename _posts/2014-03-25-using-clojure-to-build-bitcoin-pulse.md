@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Clojure to build Bitcoin Pulse
+title: Using Clojure to Build Bitcoin Pulse
 summary: The architecture of bitcoinpulse.com
 ---
 

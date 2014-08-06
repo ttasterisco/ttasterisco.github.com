@@ -1,6 +1,6 @@
 ---
 layout: post
-title: core value vs added value
+title: Core Value vs Added Value
 summary:
 ---
 

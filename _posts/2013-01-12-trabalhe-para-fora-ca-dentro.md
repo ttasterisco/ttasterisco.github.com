@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabalhe para fora, cá dentro
+title: Trabalhe Para Fora, Cá Dentro
 summary:
 filename: 2013-01-12-trabalhe-para-fora-ca-dentro.md
 ---

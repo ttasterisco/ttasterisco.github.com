@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O triste estado da Web Portuguesa
-summary:
+title: O Triste Estado da Web Portuguesa
+summary: lol.pt
 filename: 2011-03-28-o-triste-estado-da-web-portuguesa.md
 ---
 

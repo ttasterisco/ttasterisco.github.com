@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Startup is War
-summary:
+summary: Victory, or Death!
 ---
 
 targets

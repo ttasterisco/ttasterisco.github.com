@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Why I Love Regina Spektor. And You Should Too.
+title: Why I Love Regina Spektor and You Should Too
+summary: A Platonic Love Letter
 ---
+
+Regina Ilya Spektor was born in Moscow in 19... etc make a description of who she is
 
 ## why?
 

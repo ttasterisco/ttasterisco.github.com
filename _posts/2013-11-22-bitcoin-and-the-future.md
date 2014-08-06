@@ -4,6 +4,12 @@ title: Bitcoin and The Future
 summary: The importance of a decentralized digital cryptocurrency in a digital and service based society, or why Bitcoin will win.
 ---
 
+ [TODO: get a better title]
+"from the ashes of the financial instituions of this world, came Bitcoin"
+
+
+
+
 November'13 has seen another rebirth for Bitcoin (the first being in April'13). The value has soared and the digital currency has breaken into mainstream media and foastered discussions around the Globe. Here, I argue (without any facts) that Bitcoin will be the cherry on top of the Digital Economy. I am one of the creators of [Bitcoin Pulse](http://www.bitcoinpulse.com).
 
 ## Neo-Money
@@ -129,3 +135,18 @@ But just like then, it is upon the truly vested interests to continue the develo
 Even if Bitcoin fails to become the de facto currency of the Digital Economy, the box has now been totally opened (Pandora couldn't be happier) and the possibilities that can be unlocked are yet to be dreamed of.
 
 Conception date: November 22th, 2013
+
+
+
+
+
+
+
+
+
+
+
+charlie lee's theory of the stages of crypto-currencies
+
+it might happen
+but ideally, consumer and merchant growth would be going hand and hand
