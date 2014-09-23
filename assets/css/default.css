@@ -1,6 +1,5 @@
 body {
-  /*font: 400 14px/1.6 "Open Sans", sans-serif;*/
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 5px;
 
   position: relative;
@@ -9,9 +8,9 @@ body {
 
 body > *  {
   margin: auto;
-  width: 800px;
   display: block;
   overflow: auto;
+  width: 80%;
 }
 
 body > script {
