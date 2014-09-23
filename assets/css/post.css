@@ -1,12 +1,6 @@
 body {
   padding: 25px;
-  margin: 0px;
 }
-
-body > *  {
-  width: 1000px;
-}
-
 
 .left {
   display: inline;
@@ -15,7 +9,6 @@ body > *  {
   margin: 0;
   border: 0;
 }
-
 
 .left .name {
   display: inline;
@@ -26,11 +19,19 @@ body > *  {
   line-height: 25px;
 }
 
-
 .content {
   font-size: 130%;
   line-height: 1.7;
   padding-left: 1px;
   padding-right: 1px;
   padding-bottom: 25px;
+}
+
+.footnotes {
+  margin-top: 50px;
+  font-size: 12px;
+}
+
+#disqus_thread {
+  margin-top: 50px;
 }

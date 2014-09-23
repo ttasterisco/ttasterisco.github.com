@@ -35,3 +35,22 @@ what does facebook fear?
 - losing your attention: please leave that tab open with facebook logged in
 - nothing else. lots of attention = lots of pageviews = lots of ads = lots of cash
 they think they own social. but do they?
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook's strategy
+
+Diversification
+leveraging the user base
+
+
+

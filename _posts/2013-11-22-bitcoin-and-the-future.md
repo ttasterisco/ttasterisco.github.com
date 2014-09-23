@@ -150,3 +150,41 @@ charlie lee's theory of the stages of crypto-currencies
 
 it might happen
 but ideally, consumer and merchant growth would be going hand and hand
+
+
+
+
+
+
+
+
+
+
+## A Digital Economy
+
+The re-emergence of crypto-currencies has been one of the most interesting phenomena of late
+It is still too soon to tell how things will unwind
+
+### Currency
+A Currency is by definition an intermediary
+For a currency to be useful, two parties must exist: buyers and sellers
+
+
+### Storage of Value
+
+
+
+### A New Kind of Value?
+
+
+
+A Currency without a Country is like a King without a Kingdom.
+
+
+
+
+
+
+
+
+
