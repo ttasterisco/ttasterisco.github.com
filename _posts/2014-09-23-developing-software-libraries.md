@@ -27,7 +27,7 @@ I will be describing sets of characteristics that libraries should have to be co
 
 ### _User Developers_ and _Programming Developers_
 
-I begin by making a distinction between two kinds of mindsets of developers. I believe these are the two major forms of looking at this. And it is by these points of view that we should focus.
+I begin by making a distinction between the two extremes of developers. It is by these points of view that we shall focus.
 
 * _User Developers_ are programmers who are simply incorporating the library into a project, with little to no interest in the internals.
 They probably make up the largest slice of the userbase;
