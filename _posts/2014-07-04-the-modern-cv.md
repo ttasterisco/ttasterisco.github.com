@@ -15,3 +15,8 @@ papers in .... arxiv
 kaggle
 github
 
+
+
+use da vinci's resume as the "mock cv"
+do a "historic" timeline of cvs
+and then jump into the "future"

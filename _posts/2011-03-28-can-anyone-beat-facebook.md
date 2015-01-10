@@ -54,3 +54,16 @@ leveraging the user base
 
 
 
+
+groups
+  http://techcrunch.com/2014/10/24/the-groups-app-i-wish-facebook-would-build/?ncid=rss
+
+discussion - reddit
+music
+movies
+
+
+chasing instead of leading
+
+buying true talent (trendsetters and thought leaders)
+
