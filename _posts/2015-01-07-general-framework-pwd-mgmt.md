@@ -89,3 +89,17 @@ but this will protect you fairly well. a long pass will make sure it's tough to 
 will you never ever forget a password agian?
 no! you'll eventually forget a contextual keyword, but that's ok, that's what the "recover password" page is for
 
+
+
+
+
+
+
+
+
+
+https://news.ycombinator.com/item?id=8984266
+https://news.ycombinator.com/item?id=9275940
+
+
+

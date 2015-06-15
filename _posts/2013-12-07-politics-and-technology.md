@@ -12,3 +12,26 @@ how will things work when we get teleportation?
 
 the notion of state is eroding and needs to be fixed/replaced
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+the future of citizenship
+goodbye governments
+hello always-on democracy
+analytics, free information flowing, public forums
+decisions will still be influenced by a few
+everyone logs at a set time to vote
+
+
+
+

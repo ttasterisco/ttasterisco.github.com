@@ -212,3 +212,6 @@ Conception date: June 10th, 2014
 Apple Special Event. October 16, 2014.
 Live streaming video requires Safari 5.1.10 or later on OS X v10.6.8 or later; Safari on iOS 6.0 or later. Live streaming via Apple TV requires second- or third-generation Apple TV with software 6.2 or later.
 
+https://medium.com/@jason/microsoft-is-interesting-again-very-f9c5bef7116
+http://www.nytimes.com/2015/01/30/business/how-and-why-apple-overtook-microsoft.html
+http://techcrunch.com/2015/05/03/how-do-you-solve-a-problem-like-microsoft/

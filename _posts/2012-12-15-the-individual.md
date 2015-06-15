@@ -12,6 +12,48 @@ filename: 2012-12-15-the-individual.md
 
 
 
+http://www.nydailynews.com/blogs/pageviews/w-h-auden-syllabus-college-courses-piece-cake-blog-entry-1.1639980
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 THE INDIVIDUAL
 

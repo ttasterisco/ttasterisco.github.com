@@ -1,3 +1,9 @@
+---
+layout: post
+title: Unexpected Post Dot Com Tech Successes
+summary:
+---
+
 the victory of open systems
 
 the internet
