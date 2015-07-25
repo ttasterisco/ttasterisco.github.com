@@ -17,7 +17,7 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
   <br />
 
   <div class="subtitle">
-    highly <i>opiniated</i> writings.
+    {{site.description}}
   </div>
 </div>
 
