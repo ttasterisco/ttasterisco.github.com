@@ -11,7 +11,7 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://islandofatlas.net/</id>
  <author>
-   <name>ttasterisco</name>
+   <name>*</name>
    <email>atlantis@islandofatlas.net</email>
  </author>
 
