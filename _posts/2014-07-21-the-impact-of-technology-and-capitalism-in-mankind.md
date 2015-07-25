@@ -10,7 +10,7 @@ driving the cost of goods to zero
 a guaranteed income to all humanity
 "no jobs"
 the future of "work"
-
+http://techcrunch.com/2015/06/13/in-the-future-employees-wont-exist/
 
 
 in a future where, genetic manipulation is common, where we can increase our brainpower and memory, what's going to happen to humanity as a whole?

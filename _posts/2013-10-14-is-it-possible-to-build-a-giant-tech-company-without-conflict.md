@@ -28,3 +28,8 @@ but what we know makes it seem like...
 
 reasons for this?
 is it the common hunger for success that the successful startups possess?
+
+
+http://www.nytimes.com/2015/06/27/business/dealbook/the-bad-behavior-of-visionary-leaders.html
+
+
