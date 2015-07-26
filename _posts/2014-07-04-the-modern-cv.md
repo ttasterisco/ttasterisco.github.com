@@ -8,9 +8,9 @@ the modern cv
 
 fluent in ... duolingo lvl ...
 mooced .... coursera, udacity, edx, khan academy
-hobbies on pinterest
 endorsements from linkedin
 papers in .... arxiv
+hobbies on pinterest
 
 kaggle
 github
@@ -18,5 +18,6 @@ github
 
 
 use da vinci's resume as the "mock cv"
-do a "historic" timeline of cvs
-and then jump into the "future"
+
+
+do a "historic" timeline of cvs and then jump into the "future"?
