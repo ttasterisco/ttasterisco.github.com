@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-summary:
+title: Computers and Intelligence
+summary: LOL, AI! HYPE.
 ---
 
 

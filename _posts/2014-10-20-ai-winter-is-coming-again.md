@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-summary:
+title: Artificial Intelligence&#58; Winter is Coming
+summary: Game of AIs. Person of Interest did it first.
 ---
 
 ai - winter is coming (bad title)

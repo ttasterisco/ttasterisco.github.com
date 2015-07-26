@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-summary:
+title: A New Kind of Nation
+summary: Yes, We Can.
 ---
 
 a new kind of nation

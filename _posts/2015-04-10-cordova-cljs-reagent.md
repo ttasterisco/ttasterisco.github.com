@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: cordova.cljs + reagent
 summary:
 ---
 

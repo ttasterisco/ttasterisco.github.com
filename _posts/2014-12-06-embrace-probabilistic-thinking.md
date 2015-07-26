@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-summary:
+title: Embrace Probabilistic Thinking
+summary: Flip a coin.
 ---
 
 embrace probabilistic thinking
