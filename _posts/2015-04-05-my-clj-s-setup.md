@@ -17,7 +17,7 @@ These are the tools I use
 * [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) for my terminal needs (heh)
 * [Nemo File Manager](https://github.com/linuxmint/nemo)
 
-So there's the crux - I **don't** use Emacs. *\*ducks for cover\** There, I said it. *uff*. Ironically, I used Emacs for a few years, long before I found clojure. But then I found Sublime Text and have been happy ever since (which doesn't mean I'll be faithful, heh).
+So there's the crux - I **don't** use Emacs. *\*ducks for cover\** There, I said it. *uff*. Ironically, I was an Emacs user for a few years, before I started with Clojure. But then I found Sublime Text and have been happy ever since (which doesn't mean I'll be faithful, heh).
 
 I'm not listing [leiningen](http://leiningen.org/) since that's pretty much the default, but I am curious about [boot](https://github.com/boot-clj/boot).
 
@@ -50,7 +50,7 @@ That's it. Now just code away.
 
 ## Why?
 
-So why this workflow instead of the traditional Emacs with Cider or something else? Well, because it works for me! It's the workflow that I've ended up with, not just for Clojure, but for other stuff too (like writing this post).
+So why this workflow instead of the traditional Emacs with Cider or something else? Well, because it works for me. It's the workflow that I've ended up with, not just for Clojure, but for other stuff too (like writing this post).
 
 ### Where Emacs+CIDER > My Setup
 
@@ -66,13 +66,16 @@ But that's all ok. I'm past the phase of typing fast and less. Now, I'm just wor
 
 What I particularly enjoy about my setup is that it's pretty good for multiple monitors. Sublime on my main screen, Terminator on another. And maybe the browser on a 3rd screen.
 
-And not only you can use the mouse (*can*, not *must*), but it's also a fairly lightweight setup too.
+And you can use the mouse (*can*, not *must*).
+
+Also, it's a fairly lightweight setup too (well, I didn't audit it, but it sure *feels* lightweight).
 
 
 
 ### Boom!
 
-So if you want an alternative setup for using Clojure/Script, here is one. It should be pretty easy to customize it given that I use very specific tools for each job.
+So, if you want an alternative setup for using Clojure/Script, here is one.
+It should be pretty easy to customize it, given that I use very specific tools for each job.
 
 The end!
 
