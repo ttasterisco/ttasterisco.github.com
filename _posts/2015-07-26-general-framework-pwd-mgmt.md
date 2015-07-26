@@ -1,16 +1,16 @@
 ---
 layout: post
 title: A General Framework for (Strong) Pass Management
-summary: My pass is stronger than yours. For non-technical people.
+summary: My pass is stronger than yours.
 ---
 
-Well, I had this in my mind for months but about a month ago someone [kinda beat me to it](https://news.ycombinator.com/item?id=9744058).
-And in less words too. That's what you get for being lazy. \*sigh\*<br/>
+Well, I had this in my mind for months but a few weeks ago someone [beat me to it](https://news.ycombinator.com/item?id=9744058).
+And in less words too. That's what you get for being lazy. \*sigh\*
 
 Anyway...
 
 
-(I hope) This is an informative post for non-technical people.<br/>
+(I hope) This is an informative post, specially for non-technical people.<br/>
 Thought I should write this down since it's a pretty useful thing and not widely spread.<br/>
 Do note that I am not a security expert. My name doesn't start with a R, S or A.<br/>
 Please discuss in the comments section how bad my advice is.<br/>
@@ -23,7 +23,7 @@ kthxbye.
 The web is full of articles teaching you how to pick a strong pass. And that's fine for a single website.
 But what they don't teach you is how to pick a strong pass for the 10+ websites you visit frequently (and infrequently).
 
-While there are solutions to this, e.g. using a pass management software (I like [LastPass](https://lastpass.com/)), for some reason the solutions might not be applicable to you.
+While there are very good solutions to this, e.g. using a pass management software (I like [LastPass](https://lastpass.com/)), for some reason the solutions might not be applicable to you.
 
 So here's a general framework for picking strong passes and being able to remember them all (or almost!).
 
@@ -34,8 +34,6 @@ So here's a general framework for picking strong passes and being able to rememb
 Let's start with the *obligatory xkcd*:
 
 [![Obligatory](http://imgs.xkcd.com/comics/password_strength.png)](http://xkcd.com/936/)
-
-First of all, don't use pass**words**, use pass**phrases**. Or at least try to, since some websites are still stuck in the '90s.
 
 
 ### A. Generating a pass
@@ -83,9 +81,9 @@ Example:
 
 *initial phrase*: `yousaygoodbyeandisay`<br/>
 *contextual keyword*: `islandofatlas`<br/>
-*scheme*: `capitalize the first character and add a + as a suffix`<br/>
+*scheme*: `capitalize the first character, replace(a, @), add a + as a suffix`<br/>
 
-*resulting pass*: `Yousaygoodbyeandisayislandofatlas+`
+*resulting pass*: `Yous@ygoodbye@ndis@yisl@ndof@tl@s+`
 
 But what about those websites with stupid length limits?<br/>
 Huh... well, you can always shorten your phrase.<br/>
@@ -125,10 +123,10 @@ truedat. There is no good solution to this except generating good random passes 
 
 #### More
 
-Here's another guide to strong passphrases from which you can derive some utility [https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/](https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/).
+Here's another guide to strong passphrases [https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/](https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/).
 
 
-At the end of the day, it's all about trade-offs. If you can't use a pass management software and you have to be the one generating and storing them, then I think this is probably your best solution.
+At the end of the day, it's all about trade-offs. If you can't use a pass management software and you have to be the one generating and storing them, then I think this is probably your best solution. Truth is, if someone is specifically targeting you, you're kinda screwed.
 
 
 
