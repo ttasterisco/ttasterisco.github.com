@@ -8,7 +8,7 @@
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/assets/css/common.css" type="text/css" />
   <link rel="stylesheet" href="/assets/css/default.css" type="text/css" />
-  {% for css in page.css %}
+  {% for css in layout.css %}
     <link rel="stylesheet" href="{{css}}" type="text/css" />
   {% endfor %}
 </head>
