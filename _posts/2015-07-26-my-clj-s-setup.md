@@ -39,9 +39,9 @@ Well, now it depends on the project I'm working on! I might split my Terminator 
 
 See, it's very dependent on the needs of what I'm doing.
 
-In Sublime, I prefer the Single layout for maximum concentration, but sometimes I `ctrl+shift+2` to get a 2 column layout and place a file I need to read in the 2nd column.
+In Sublime, I prefer the Single layout for maximum focus, but sometimes I'll `ctrl+shift+2` to get a 2 column layout and place a file I need to read in the 2nd column.
 
-And Nemo too supports multiple tabs! So one tab for the root of the project, another tab for a subfolder in `src`, another tab for another subfolder in `src`, etc!
+And Nemo supports multiple tabs too! So one tab for the root of the project, another tab for a subfolder in `src`, another tab for another subfolder in `src`, etc!
 
 Need to open some file in Sublime that's in some obscure subfolder of the current path but you don't want to browse around Nemo? `ctrl+p filename` should do the trick.
 
