@@ -1,5 +1,5 @@
 name: (in)conception
-highlighter: pygments
+highlighter: rouge
 description: Random.next(INFINITY);
 url: http://islandofatlas.net
 markdown: kramdown
