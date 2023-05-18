@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="pt-pt">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>(in)conception</title>
-  <meta name="author" content="" />
+  <title>Urban Vagabond</title>
+  <meta name="author" content="ttasterisco" />
 
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/assets/css/common.css" type="text/css" />

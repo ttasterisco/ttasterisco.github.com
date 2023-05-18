@@ -1,5 +1,11 @@
 /* styles for index.html */
 
+.logo {
+    display: inline;
+    float: left;
+    margin-right: 1em;
+}
+
 .header {
   padding: 10px 25px 10px 25px;
 }
