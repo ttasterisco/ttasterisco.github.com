@@ -1,3 +1,10 @@
+---
+layout: post
+title: Eliat, Israel → Aqaba, Jordan
+---
+
+Date of travel: May 2023
+
 - land border crossing eliat -> aqaba
 first thing you have to do is to pay the exit fee (cheaper for more people), which costs a bit over 30€/person
 then you go through the border check, and off you go

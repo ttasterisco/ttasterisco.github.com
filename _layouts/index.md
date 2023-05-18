@@ -24,9 +24,16 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
 <hr class="divider" />
 
 <div class="content"> 
+  <!-- TODO: use tabs for these 3 sections -->
+
   <div>
-      <h2>travel tips</h2>    
-      {% for post in site.categories["travel-tips"] %}
+      <h2>travel tips</h2>
+
+      <!-- TODO: write a small intro -->
+
+      {% if site.categories["travel-tips"] %}
+      {% assign travel_posts = site.categories["travel-tips"] | sort: "title" %}
+      {% for post in travel_posts %}
       <div class="post">
           <div class="date">{{ post.date }}</div>
           <div class="title">
@@ -34,11 +41,17 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
           </div>
       </div>
       {% endfor %}      
+      {% endif %}      
   </div>
     
   <div>
       <h2>cities</h2>    
-      {% for post in site.categories["cities"] %}
+
+      <!-- TODO: write a small intro -->
+
+      {% if site.categories["cities"] %}
+      {% assign cities = site.categories["cities"] | sort: "title" %}
+      {% for post in cities %}
       <div class="post">
           <div class="date">{{ post.date }}</div>
           <div class="title">
@@ -46,10 +59,14 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
           </div>
       </div>
       {% endfor %}
+      {% endif %}
   </div>
 
   <div>
       <h2>living</h2>
+
+      <!-- TODO: write a small intro -->
+
       {% for post in site.categories["life"] %}
       <div class="post">
           <div class="date">{{ post.date }}</div>

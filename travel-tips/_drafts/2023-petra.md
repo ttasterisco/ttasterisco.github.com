@@ -1,3 +1,10 @@
+---
+layout: post
+title: Petra, Jordan
+---
+
+Date of travel: May 2023
+
 - petra - back entrance
 you can get a free shuttle to little petra (last one is at 15:00)
 then you can walk for ~2 hrs to the monastery or pay to get into a 4x4 truck (don't know how much)

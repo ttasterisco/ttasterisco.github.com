@@ -1,3 +1,9 @@
+---
+layout: post
+title: Eliat, Israel
+---
+
+Date of travel: May 2023
 - border to border in eliat
 welcome to israel, now you need to find a way to get to jordanian border
 I got an expensive taxi for 90 shekels (~25 euros), but there might be cheaper options (didn't check cause my friends were too tired, lmao)

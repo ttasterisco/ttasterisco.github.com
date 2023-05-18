@@ -1,4 +1,11 @@
-- land border crossing taba -> eliat
+---
+layout: post
+title: Taba, Egypt → Eliat, Israel
+---
+
+Date of travel: May 2023
+
+land border crossing taba -> eliat
 pay for exit stamps from egypt (15 EGP?), fill a form, give to the border exit
 
 walk a few meters into the israel entry border check

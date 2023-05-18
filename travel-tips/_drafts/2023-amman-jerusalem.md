@@ -1,3 +1,9 @@
+---
+layout: post
+title: Amman, Jordan → Jerusalem, Israel
+---
+
+Date of travel: May 2023
 - amman - jerusalem
 jett bus to king hussein bridge (leaves at 7:00 but be at 6:45 in abdali)
 

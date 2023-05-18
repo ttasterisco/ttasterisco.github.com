@@ -1,3 +1,10 @@
+---
+layout: post
+title: Petra → Amman, Jordan
+---
+
+Date of travel: May 2023
+
 - mini bus petra -> amman
 if you are going in the morning (before 10am)
 go to the minibus station https://maps.app.goo.gl/jDNNKmiockUeVfh46

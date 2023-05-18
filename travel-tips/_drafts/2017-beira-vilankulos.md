@@ -1,1 +1,6 @@
-- beira -> vilankulos (2017)
+---
+layout: post
+title: Beira → Vilankulos, Mozambique
+---
+
+Date of travel: January 2017

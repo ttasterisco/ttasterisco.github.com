@@ -1,3 +1,9 @@
+---
+layout: post
+title: Cairo Airport → Cairo Downtown, Egypt
+---
+
+Date of travel: May 2023
 - cairo airport -> downtown (egyptian museum)
 most people take a taxi or a private minibus
 a taxi will cost around 400-500 EGP

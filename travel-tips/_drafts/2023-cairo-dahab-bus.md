@@ -1,3 +1,9 @@
+---
+layout: post
+title: Cairo → Dahab, Egypt
+---
+
+Date of travel: May 2023
 - bus cairo -> sharm el sheik/dahab
 buy tickets in torgoman (shopping center)
 east delta company

@@ -1,1 +1,6 @@
-- trains in china
+---
+layout: post
+title: China
+---
+
+Date of travel: November 2015

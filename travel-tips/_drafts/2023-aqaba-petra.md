@@ -1,3 +1,9 @@
+---
+layout: post
+title: Aqaba → Petra, Jordan
+---
+
+Date of travel: May 2023
 - mini bus aqaba -> petra
 the bus terminal is in ... a few mins walk from the princess salma park
 the petra bus is usually a mini-bus (shuttle bus), with a sign saying Petra - Aqaba on the side of the bus, near the back

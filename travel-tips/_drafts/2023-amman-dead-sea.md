@@ -1,3 +1,9 @@
+---
+layout: post
+title: Amman → Dead Sea, Jordan
+---
+
+Date of travel: May 2023
 - amman - dead sea
 jett bus 8.30 abdali station (9:00 at 9th circle station), book online, get there before so they can check you in
 15 jd roundtrip
