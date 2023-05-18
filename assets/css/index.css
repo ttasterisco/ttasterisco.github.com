@@ -19,9 +19,6 @@
   color: #0060B6;
 }
 
-.header .title .link:hover {
-}
-
 .header .subtitle {
   display: inline;
   font-size: 15px;
@@ -83,4 +80,8 @@
   font-size: 10px;
   float: right;
   padding: 7px;
+}
+
+.intro {
+  margin-bottom: 2em;
 }

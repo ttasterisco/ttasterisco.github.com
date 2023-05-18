@@ -30,7 +30,9 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
   <div>
       <h2>travel tips</h2>
 
-      <!-- TODO: write a small intro -->
+      <div class="intro">
+      if you're backpacking and/or budget travelling, you'll probably appreciate these posts
+      </div>
 
       {% assign travel_posts = site.categories["travel-tips"] | sort: "title" %}
       {% for post in travel_posts %}
@@ -47,7 +49,9 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
   <div>
       <h2>cities</h2>
 
-      <!-- TODO: write a small intro -->
+      <div class="intro">
+      in the style of Calvino, but about real events
+      </div>
 
       {% assign cities = site.categories["cities"] | sort: "title" %}
       {% for post in cities %}
@@ -64,7 +68,9 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
   <div>
       <h2>living</h2>
 
-      <!-- TODO: write a small intro -->
+      <div class="intro">
+      life is for living, we all know
+      </div>
 
       {% for post in site.categories["life"] %}
       <div class="post">
