@@ -61,7 +61,7 @@
 
 .content .post {
   padding-top: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 .content .post .title {
@@ -70,18 +70,6 @@
   line-height: 30px;
 }
 
-.content .post .summary {
-  font-size: 13px;
-  line-height: 20px;
-  display: inline;
-}
-
-.content .post .date {
-  font-size: 10px;
-  float: right;
-  padding: 7px;
-}
-
 .intro {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }

@@ -50,7 +50,7 @@ css: ["/assets/css/index.css", "/assets/css/about.css"]  # ARGH, Y U NO OVERRIDE
       <h2>cities</h2>
 
       <div class="intro">
-      in the style of Calvino, but about real events
+      in the style of Calvino, but with faded memories about real events
       </div>
 
       {% assign cities = site.categories["cities"] | sort: "title" %}
