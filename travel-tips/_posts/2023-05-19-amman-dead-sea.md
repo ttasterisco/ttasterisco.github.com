@@ -12,11 +12,11 @@ The bus (or mini-bus, depending on the attendance) leaves Jett Bus Abdali Statio
 You can book the tickets online at [https://jtt.com.jo/](https://jtt.com.jo/), the roundtrip costs 15 JD/person.
 Make sure you arrive a few minutes before, so that they can check you in.
 
-One thing to note about the Jordanian Dead Sea is that it's monopolized by resorts. Even the public beach has been closed off (they were building something). This means you **must** have a specific resort as a destination (so that the driver knows where to pick you up).
+One thing to note about the Jordanian Dead Sea is that it's monopolized by resorts. Even the public beach has been closed off (they were building something). This means you **must** have a specific resort as a destination (so that the bus driver knows where to pick you up).
 
-The bus driver will most likely sell you the Ramada (which is the default drop-off point). It costs 25 JD for the stay (includes all you can eat lunch, access to the pools and showers). There might be a cheaper option without the lunch.
+The driver will most likely sell you the Ramada (which is the default drop-off point). It costs 25 JD for the stay (includes all you can eat lunch, access to the pools and showers). There might be a cheaper option without the lunch.
 
-I didn't go there because I already had something else booked, but I heard that it was good, just that the beach is a bit far away (but they have golf carts that act as shuttles). It might also be a bit crowded because it's the default option.
+I didn't go there because I already had something else booked, but I heard that it was good, though the beach is a bit far away (but they have golf carts that act as shuttles). It might also be a bit crowded since it's the default option.
 
 If you have another resort booked, all you have to do is inform the driver, and they will take you there, and tell you a time to pick you up (ask to get picked up later to enjoy some extra minutes - the driver might say yes).
 
